@@ -31,13 +31,13 @@ To build a VPC over the Zenlayer bare metal instances, we will perform the follo
 2.  Assume that a user chooses the ubuntu 20.04 as the OS and here it is the `ip a` output from console:\
 
 
-    <figure><img src="../../.gitbook/assets/Article_1 (17).jpg" alt=""><figcaption><p><br></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_1 (12).jpg" alt=""><figcaption><p><br></p></figcaption></figure>
 
 
 3.  To build a VPC, the plan is to get one server for the private cloud controller and two servers for the virtual machines, therefore placing the order of 3 bare metal instances and got them running:\
 
 
-    <figure><img src="../../.gitbook/assets/Article_2 (6).jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_2 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 ****
 
@@ -54,13 +54,13 @@ After the initial provisioning, 3 instances are up and running with Internet acc
 2.  Click **Add Instance** to attach instances to your subnet.\
 
 
-    <figure><img src="../../.gitbook/assets/Article_4 (1).jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_4.jpg" alt=""><figcaption></figcaption></figure>
 
     \
     You can get the MAC address of VPC on instance details page, which you may use it for future setup with DHCP IP & MAC binding.\
 
 
-    <figure><img src="../../.gitbook/assets/Article_5.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_5 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

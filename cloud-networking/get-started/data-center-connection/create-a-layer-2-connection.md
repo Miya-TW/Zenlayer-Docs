@@ -23,7 +23,7 @@ After creating a private connect, you can contact Zenlayer support or your data 
 
 #### 1. Select a source port closest to your one of your data centers.
 
-<figure><img src="../../../.gitbook/assets/Article_1 (7).jpg" alt=""><figcaption><p>Layer-2 Data Center Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (14).jpg" alt=""><figcaption><p>Layer-2 Data Center Connection</p></figcaption></figure>
 
 **Existing Port**\
 ****If you have an established cross connect to Zenlayer Cloud Networking, you can select your existing port.&#x20;
@@ -41,7 +41,7 @@ After creating a private connect, you can contact Zenlayer support or your data 
 \
 4\) Enter the legal business name of the authorized party. You will receive an LOA (letter of authorization) that is used to establish your cross connect.
 
-<figure><img src="../../../.gitbook/assets/Article_2 (8).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_2 (3).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
 
 <img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
@@ -63,7 +63,7 @@ The steps are the same as selecting a source port above.\
 
 Configure the connection between the source port and the destination port.
 
-<figure><img src="../../../.gitbook/assets/Article_3 (2).jpg" alt=""><figcaption><p>Configure Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_3 (3).jpg" alt=""><figcaption><p>Configure Connection</p></figcaption></figure>
 
 1. Select or enter the VLAN ID of your source and destination ports. Data will be transmitted in the corresponding VLAN.
 2. Select the bandwidth cap of your private connect from 1 Mbps to 500 Mbps.

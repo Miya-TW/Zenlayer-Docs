@@ -6,7 +6,7 @@ description: >-
 
 # IDC to IDC
 
-<figure><img src="../../../.gitbook/assets/Article_1 (20).jpg" alt=""><figcaption><p>IDC to IDC</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (16).jpg" alt=""><figcaption><p>IDC to IDC</p></figcaption></figure>
 
 ## **Procedures**
 

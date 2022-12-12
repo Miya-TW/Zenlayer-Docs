@@ -41,21 +41,6 @@ There are 3 kinds of burstable 95th billing models:
 
 <table><thead><tr><th>Billing Model</th><th>Billing Item</th><th>Description</th><th data-hidden>Example</th></tr></thead><tbody><tr><td><br>Postpaid burstable 95th volume Pricing<br></td><td><br>95th percentile bandwidth usage of one instance<br></td><td><br>The price of all the bandwidth units you have used is within the set price range.<br></td><td><br>Assume your actual usage of 95th bandwidth in the billing cycle is 2 Mbps, falling in the 1 Mbps - Unlimited range.<br>Your billing:<br>2 Mbps × 0.50/Mbps = 1.00 zenPoint.<br></td></tr><tr><td><br>Postpaid burstable 95th tiered Pricing<br></td><td><br>95th percentile bandwidth usage of one instance<br></td><td><br>The price per bandwidth unit you have used is within a particular price range. Once you fill up one tier you move to the next.<br></td><td><br>Assume your actual usage of 95th bandwidth in the billing cycle is 2 Mbps, <br>Your billing:<br>0.04 Mbps × 8.00/Mbps + 0.04 Mbps × 4/Mbps + 0.04 Mbps × 2/Mbps + 0.88 Mbps × 1 /Mbps + 1 Mbps × 0.5/Mbps =</td></tr><tr><td><br>Postpaid burstable 95th with commitment<br></td><td><br>95th percentile bandwidth usage of one instance<br></td><td><p><br>You prepay the bandwidth commitment and usage exceeded the base commit rate will be post paid by Mbps.</p><p><img src="../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;"><strong>Note</strong></mark></p><p><mark style="color:blue;">The minimum commitment for each instance is 200 Mbps.</mark><br><mark style="color:blue;"></mark></p></td><td></td></tr></tbody></table>
 
-### Aggregated Burstable 95th
-
-You use first and pay afterward by month. If you have a base commit rate, you need to pre-pay that part first. The system samples the peak bandwidth of all your instances in one bandwidth cluster each month, and discard the top 5% of the samples. The highest value left is taken as the billable bandwidth.
-
-There are 3 kinds of aggregated burstable 95th billing models:
-
-<table><thead><tr><th>Billing Model</th><th>Billing Item</th><th>Description</th><th data-hidden>Example</th></tr></thead><tbody><tr><td><br>Postpaid burstable 95th volume Pricing<br></td><td><br>95th percentile bandwidth usage of all instances in one bandwidth cluster<br></td><td><br>The price of all the bandwidth units you have used is within the set price range.<br></td><td><br>Assume your actual usage of 95th bandwidth in the billing cycle is 2 Mbps, falling in the 1 Mbps - Unlimited range.<br>Your billing:<br>2 Mbps × 0.50/Mbps = 1.00 zenPoint.<br></td></tr><tr><td><br>Postpaid burstable 95th tiered Pricing<br></td><td><br>95th percentile bandwidth usage of all instances in one bandwidth cluster<br></td><td><br>The price per bandwidth unit you have used is within a particular price range. Once you fill up one tier you move to the next.<br></td><td><br>Assume your actual usage of 95th bandwidth in the billing cycle is 2 Mbps, <br>Your billing:<br>0.04 Mbps × 8.00/Mbps + 0.04 Mbps × 4/Mbps + 0.04 Mbps × 2/Mbps + 0.88 Mbps × 1 /Mbps + 1 Mbps × 0.5/Mbps =</td></tr><tr><td><br>Postpaid burstable 95th with commitment<br></td><td><br>95th percentile bandwidth usage of all instances in one bandwidth cluster<br></td><td><br>You prepay the bandwidth commitment and usage exceeded the base commit rate will be post paid by Mbps.<br><img src="../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;"><strong>Note</strong></mark><br><mark style="color:blue;">The minimum commitment for each instance is 300 Mbps.</mark><br><mark style="color:blue;"></mark></td><td></td></tr></tbody></table>
-
-{% hint style="info" %}
-<mark style="color:blue;">**Note**</mark>
-
-* <mark style="color:blue;">All your instances in one bandwidth cluster will be billed together with no bandwidth commitment.</mark>
-* <mark style="color:blue;">You will not be billed for a bandwidth cluster if no instances are added in.</mark>
-{% endhint %}
-
 
 
 ## Data Transfer

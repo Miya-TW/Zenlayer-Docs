@@ -6,7 +6,7 @@ description: >-
 
 # IDC to Cloud
 
-<figure><img src="../../../.gitbook/assets/Article_1 (18).jpg" alt=""><figcaption><p>IDC to Cloud</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (4).jpg" alt=""><figcaption><p>IDC to Cloud</p></figcaption></figure>
 
 ## Procedures
 

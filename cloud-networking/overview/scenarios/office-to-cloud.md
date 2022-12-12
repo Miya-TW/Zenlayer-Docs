@@ -6,7 +6,7 @@ description: >-
 
 # Office to Cloud
 
-<figure><img src="../../../.gitbook/assets/Article_1.jpg" alt=""><figcaption><p>Office to Cloud</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (17).jpg" alt=""><figcaption><p>Office to Cloud</p></figcaption></figure>
 
 ## Procedures
 
@@ -20,5 +20,5 @@ description: >-
 
 ## **What to Do Next**
 
-Contact Zenlayer Support (support@zenlayer.com) or click <img src="../../../.gitbook/assets/Article_2 (4).jpg" alt="" data-size="line"> on the upper-right corner of zenConsole to create Office-to-Cloud connections.&#x20;
+Contact Zenlayer Support (support@zenlayer.com) or click <img src="../../../.gitbook/assets/Article_2 (10).jpg" alt="" data-size="line"> on the upper-right corner of zenConsole to create Office-to-Cloud connections.&#x20;
 

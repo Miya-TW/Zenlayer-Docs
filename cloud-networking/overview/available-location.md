@@ -6,5 +6,5 @@ description: >-
 
 # Available Location
 
-<figure><img src="../../.gitbook/assets/Article_1 (22).jpg" alt=""><figcaption><p>Available Location for SDN Backbone</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (8).jpg" alt=""><figcaption><p>Available Location for SDN Backbone</p></figcaption></figure>
 

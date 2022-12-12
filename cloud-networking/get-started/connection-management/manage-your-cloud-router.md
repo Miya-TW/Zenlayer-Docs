@@ -1,6 +1,6 @@
 # Manage Your Cloud Router
 
-<figure><img src="../../../.gitbook/assets/Article_1 (12).jpg" alt=""><figcaption><p>Cloud Router Management</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (5).jpg" alt=""><figcaption><p>Cloud Router Management</p></figcaption></figure>
 
 ## **State of Your Cloud Router and Port**
 

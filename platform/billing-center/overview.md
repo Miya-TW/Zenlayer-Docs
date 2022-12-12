@@ -6,7 +6,7 @@ description: View your zenPoint balance and voucher balance in Overview.
 
 Go to **Billing** > **Overview** to view your zenPoint balance and voucher balance. Switch to **Recharge History** to view all your recharges. The balance is shown in zenPoints with 1 zenPoint equalling USD $1.00.
 
-<figure><img src="../../.gitbook/assets/Article_1 (21).jpg" alt=""><figcaption><p>Billing Center Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (2).jpg" alt=""><figcaption><p>Billing Center Overview</p></figcaption></figure>
 
 ## **ZenPoint Balance**
 

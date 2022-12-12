@@ -12,7 +12,7 @@ description: >-
 
 ### **Step 2 - Enter your account information**
 
-<figure><img src="../../.gitbook/assets/Article_1 (19).jpg" alt=""><figcaption><p>Sign-Up</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (10).jpg" alt=""><figcaption><p>Sign-Up</p></figcaption></figure>
 
 1. Enter your email address to sign in to zenConsole and to receive notifications.
 2. Create and confirm your password.
