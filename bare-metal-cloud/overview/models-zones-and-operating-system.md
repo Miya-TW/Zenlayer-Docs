@@ -27,7 +27,7 @@ The table below displays the cities and zones that are available, but the accura
 | North America |     U.S.A    |   Los Angeles  |     LAX B, LAX C, LAX D, LAX E, LAX G, LAX H    |
 |               |     U.S.A    |     Chicago    |                      CHI A                      |
 |               |     U.S.A    |     Dallas     |               DFW A, DFW B, DFW C               |
-|               |     U.S.A    |     Atlanta    |                       ATL                       |
+|               |     U.S.A    |     Atlanta    |                      ATL A                      |
 |               |     U.S.A    |   Washington   |               IAD A, IAD D, IAD E               |
 |               |     U.S.A    |      Miami     |               MIA A, MIA B, MIA C               |
 |               |     U.S.A    |    New York    |               NYC A, NYC B, NYC C               |
