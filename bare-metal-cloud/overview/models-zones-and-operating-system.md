@@ -39,9 +39,9 @@ The table below displays the cities and zones that are available, but the accura
 |               |    Mexico    |   Mexico City  |                      MEX B                      |
 |               |     Chile    |    Santiago    |                      SCL A                      |
 |               |   Colombia   |     Bogota     |                      BOG A                      |
-| Europe        |    Holland   |    Amsterdam   |               AMS A, AMS C, AMS D               |
+| Europe        |  Netherlands |    Amsterdam   |               AMS A, AMS C, AMS D               |
 |               |    Germany   |    Frankfurt   |        FRA A, FRA B, FRA D, FRA E, FRA F        |
-|               |    Turkey    |                |            IST A, IST B, IST C, IST D           |
+|               |    Turkey    |    Istanbul    |            IST A, IST B, IST C, IST D           |
 |               |    England   |     London     |                   LON A, LON B                  |
 |               |     Spain    |     Madrid     |                   MAD A, MAD B                  |
 |               |    Russia    |     Moscow     |               MOW A, MOW B, MOW C               |
@@ -50,7 +50,7 @@ The table below displays the cities and zones that are available, but the accura
 |               |     Italy    |      Milan     |                   MXP A, MXP B                  |
 |               |    Sweden    |    Stockholm   |                      ARN A                      |
 |               |    Poland    |     Warsaw     |                      WAW A                      |
-|               |     Asia     |    Thailand    |                   BKK A, BKK D                  |
+| Asia          |   Thailand   |     Bangkok    |                   BKK A, BKK D                  |
 |               |     India    |    Bangalore   |                   BLR A, BLR B                  |
 |               |     India    |     Mumbai     |        BOM A, BOM B, BOM D, BOM E, BOM G        |
 |               |     India    |      Delhi     |                   DEL A, DEL C                  |
@@ -69,7 +69,7 @@ The table below displays the cities and zones that are available, but the accura
 |               |    Vietnam   |   Ho Chi Minh  |                   SGN A, SGN C                  |
 |               |    Vietnam   |      Hanoi     |                      HAN B                      |
 |               |   Singapore  |    Singapore   |            SIN A, SIN B, SIN C, SIN E           |
-|               |    Taiwan    |      Taipe     |               TPE A, TPE C, TPE D               |
+|               |    Taiwan    |     Taipei     |               TPE A, TPE C, TPE D               |
 |               |     Japan    |      Osaka     |                      OSA A                      |
 |               |     Japan    |      Tokyo     |            TYO A, TYO C, TYO D, TYO E           |
 | Africa        | South Africa |  Johannesburg  |                   JNB A, JNB B                  |
