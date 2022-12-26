@@ -70,6 +70,7 @@
 
 * [Overview](virtual-machine/overview/README.md)
   * [Virtual Machine Instance](virtual-machine/overview/virtual-machine-instance.md)
+  * [Models, Zones & Operating System](virtual-machine/overview/models-zones-and-operating-system.md)
   * [Virtual Elastic Disk](virtual-machine/overview/virtual-elastic-disk.md)
   * [VPC](virtual-machine/overview/vpc.md)
   * [VPC & Subnet Planning](virtual-machine/overview/vpc-and-subnet-planning.md)
