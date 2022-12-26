@@ -4,9 +4,9 @@
 
 Zenlayer bare metal instance has three main models with different configurations. The table below displays the main parameters as reference.
 
-| S                                                                                                                                                   | M                                                                                                                                                                                     | L                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Processor: Single E3</li><li>RAM: 16GB or more</li><li>NIC: 2*10Gbps</li><li>Storage: SATA</li><li>IPMI Access</li><li>Dual Power</li></ul> | <ul><li>Processor: Dual E5 or higher</li><li>RAM: 64GB or more</li><li>NIC: 4*10Gbps</li><li>Storage: SAS/SATA</li><li>Hardware RAID</li><li>IPMI Access</li><li>Dual Power</li></ul> | <ul><li>Processor: Dual E5 or higher</li><li>RAM: 128GB or more</li><li>NIC: 4*10Gbps</li><li>Storage: SAS/SATA</li><li>Hardware RAID</li><li>IPMI Access</li><li>Dual Power</li></ul> |
+| S                                                                                                                                                       | M                                                                                                                                                                                             | L                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Processor: Single E3</li><li>RAM: 16 GB or more</li><li>NIC: 2 × 10 Gbps</li><li>Storage: SATA</li><li>IPMI Access</li><li>Dual Power</li></ul> | <ul><li>Processor: Dual E5 or higher</li><li>RAM: 64 GB or more</li><li>NIC: 4 × 25 Gbps</li><li>Storage: SAS/SATA/SSD</li><li>Hardware RAID</li><li>IPMI Access</li><li>Dual Power</li></ul> | <ul><li>Processor: Dual E5 or higher</li><li>RAM: 128 GB or more</li><li>NIC: 4 × 25 Gbps</li><li>Storage: SAS/SATA/SSD</li><li>Hardware RAID</li><li>IPMI Access</li><li>Dual Power</li></ul> |
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>
@@ -88,13 +88,13 @@ The table below displays the cities and zones that are available, but the accura
 
 ## **Operating System**
 
-| Operating System |                                                                                          Version                                                                                          |
-| :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      Centos      |                                          <p>CentOS7.4-x86_64<br>CentOS7.5-x86_64<br>CentOS7.6-x86_64<br>CentOS7.8-x86_64<br>CentOS8.0-x86_64</p>                                          |
-|      Debian      |                                                           <p>Debian10.6-x86_64<br>Debian8.11.0-x86_64<br>Debian9.8.0-x86_64</p>                                                           |
-|      Ubuntu      |                                                           <p>Ubuntu16.04-x86_64<br>Ubuntu18.04-x86_64<br>Ubuntu20.04-x86_64</p>                                                           |
-|       ESXI       |                                                                 <p>VMware-ESXi6.0<br>VMware-ESXi6.5<br>VMware-ESXi6.7</p>                                                                 |
-|      Windows     | <p>Win2012-R2-DC-CN<br>Win2012-R2-DC-EN<br>Win2012-R2-SE-CN<br>Win2012-R2-SE-EN<br>Win2016-DC-CN<br>Win2016-DC-EN<br>Win2019-DC-CN<br>Win2019-DC-EN<br>Win2019-SE-CN<br>Win2019-SE-EN</p> |
+| Operating System |                                                                                                   Version                                                                                                  |
+| :--------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      Centos      |             <p>CentOS6.9-x86_64</p><p>CentOS7.4-x86_64<br>CentOS7.5-x86_64<br>CentOS7.6-x86_64<br>CentOS7.8-x86_64</p><p>CentOS7.9-x86_64<br>CentOS8.0-x86_64<br>CentOS-8.2-netdisk-x86_64</p>             |
+|      Debian      |                                                                               <p>Debian10.6-x86_64<br>Debian9.8.0-x86_64</p>                                                                               |
+|      Ubuntu      |                                                                               <p>Ubuntu18.04-x86_64<br>Ubuntu20.04-x86_64</p>                                                                              |
+|       ESXi       |                                                                          <p>VMware-ESXi6.0<br>VMware-ESXi6.5<br>VMware-ESXi6.7</p>                                                                         |
+|      Windows     | <p>Win2012-R2-DC-CN<br>Win2012-R2-DC-EN<br>Win2012-R2-SE-CN<br>Win2012-R2-SE-EN<br>Win2016-DC-CN<br>Win2016-DC-EN<br>Win2016-SE-CN<br>Win2016-SE-EN<br>Win2019-SE-CN<br>Win2019-SE-EN<br>Win2022-SE-CN</p> |
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>
