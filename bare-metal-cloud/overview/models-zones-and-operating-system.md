@@ -82,6 +82,7 @@ The table below displays the cities and zones that are available, but the accura
 |                               |          Johannesburg         |                      JNB A, JNB B                      |
 |                               |             Lagos             |                      LOS A, LOS B                      |
 |                               |             Cairo             |                          CAI A                         |
+|                               |              Doha             |                          DOH A                         |
 
 
 
