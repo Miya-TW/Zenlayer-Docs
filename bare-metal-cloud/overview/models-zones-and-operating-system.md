@@ -22,60 +22,66 @@ Bare metal instances are deployed by zones. Each zone has its own power grid and
 
 The table below displays the cities and zones that are available, but the accurate data is subject to the opening page on zenConsole.
 
-| Region   |      City      |                       Zone                      |
-| -------- | :------------: | :---------------------------------------------: |
-| Americas |   Los Angeles  |     LAX B, LAX C, LAX D, LAX E, LAX G, LAX H    |
-|          |     Chicago    |                      CHI A                      |
-|          |     Dallas     |               DFW A, DFW B, DFW C               |
-|          |     Atlanta    |                      ATL A                      |
-|          |   Washington   |               IAD A, IAD D, IAD E               |
-|          |      Miami     |               MIA A, MIA B, MIA C               |
-|          |    New York    |               NYC A, NYC B, NYC C               |
-|          |     Seattle    |                      SEA A                      |
-|          |    San Jose    |                   SJC A, SJC B                  |
-|          |    Sao Paulo   | SAO A, SAO B, SAO D, SAO E, SAO F, SAO G, SAO I |
-|          | Río de Janeiro |                   GIG B, GIG C                  |
-|          |    Fortaleza   |                      FOR A                      |
-|          |   Mexico City  |                      MEX B                      |
-|          |    Santiago    |                      SCL A                      |
-|          |     Bogota     |                      BOG A                      |
-| Europe   |    Amsterdam   |               AMS A, AMS C, AMS D               |
-|          |    Frankfurt   |        FRA A, FRA B, FRA D, FRA E, FRA F        |
-|          |    Istanbul    |            IST A, IST B, IST C, IST D           |
-|          |     London     |                   LON A, LON B                  |
-|          |     Madrid     |                   MAD A, MAD B                  |
-|          |     Moscow     |               MOW A, MOW B, MOW C               |
-|          |   Marseilles   |                      MRS A                      |
-|          |      Paris     |               PAR A, PAR B, PAR C               |
-|          |      Milan     |                   MXP A, MXP B                  |
-|          |    Stockholm   |                      ARN A                      |
-|          |     Warsaw     |                      WAW A                      |
-| Asia     |     Bangkok    |                   BKK A, BKK D                  |
-|          |    Bangalore   |                   BLR A, BLR B                  |
-|          |     Mumbai     |        BOM A, BOM B, BOM D, BOM E, BOM G        |
-|          |      Delhi     |                   DEL A, DEL C                  |
-|          |     Chennai    |                   MAA A, MAA C                  |
-|          |      Dhaka     |                   DAC C, DAC D                  |
-|          |      Dubai     |               DXB A, DXB B, DXB C               |
-|          |    Fujairah    |                      FJR B                      |
-|          |    Tel Aviv    |                      TLV A                      |
-|          |    Hongkong    |            HKG A, HKG B, HKG C, HKG D           |
-|          |     Jakarta    |            JKT A, JKT D, JKT E, JKT F           |
-|          |     Karachi    |                      KHI B                      |
-|          |    Islamabad   |                      ISB B                      |
-|          |  Kuala Lumpur  |                   KUL A, KUL C                  |
-|          |     Manila     |            MNL A, MNL B, MNL E, MNL F           |
-|          |      Seoul     |                   SEL A, SEL D                  |
-|          |   Ho Chi Minh  |                   SGN A, SGN C                  |
-|          |      Hanoi     |                      HAN B                      |
-|          |    Singapore   |            SIN A, SIN B, SIN C, SIN E           |
-|          |     Taipei     |               TPE A, TPE C, TPE D               |
-|          |      Osaka     |                      OSA A                      |
-|          |      Tokyo     |            TYO A, TYO C, TYO D, TYO E           |
-| Africa   |  Johannesburg  |                   JNB A, JNB B                  |
-|          |      Lagos     |                   LOS A, LOS B                  |
-|          |      Cairo     |                      CAI A                      |
-| Oceania  |     Sydney     |                      SYD A                      |
+| Region             |              City             |                          Zone                          |
+| ------------------ | :---------------------------: | :----------------------------------------------------: |
+| Americas           |          Los Angeles          |               LAX C, LAX H, LAX I, LAX G               |
+|                    | Los Angeles - China Optimized |                   LAX B, LAX D, LAX E                  |
+|                    |            Chicago            |                          CHI A                         |
+|                    |             Dallas            |                   DFW A, DFW B, DFW C                  |
+|                    |            Atlanta            |                          ATL A                         |
+|                    |           Washington          |               IAD A, IAD D, IAD E, IAD F               |
+|                    |             Miami             |                   MIA A, MIA B, MIA C                  |
+|                    |            New York           |                   NYC A, NYC B, NYC C                  |
+|                    |            Seattle            |                          SEA A                         |
+|                    |            San Jose           |                      SJC A, SJC B                      |
+|                    |           Sao Paulo           | SAO A, SAO B, SAO D, SAO E, SAO F, SAO H, SAO I, SAO G |
+|                    |         Río de Janeiro        |                      GIG B, GIG C                      |
+|                    |           Fortaleza           |                          FOR A                         |
+|                    |          Mexico City          |                          MEX B                         |
+|                    |           Santiago            |                         SCL A                          |
+|                    |             Bogota            |                          BOG A                         |
+|                    |          Buenos Aires         |                          EZE A                         |
+| Europe             |           Amsterdam           |                   AMS A, AMS C, AMS D                  |
+|                    |           Frankfurt           |            FRA A, FRA B, FRA D, FRA E, FRA F           |
+|                    |            Istanbul           |               IST A, IST B, IST C, IST D               |
+|                    |             London            |                      LON A, LON B                      |
+|                    |             Madrid            |                      MAD A, MAD B                      |
+|                    |             Moscow            |                   MOW A, MOW B, MOW C                  |
+|                    |           Marseilles          |                          MRS A                         |
+|                    |             Paris             |                   PAR A, PAR B, PAR C                  |
+|                    |             Milan             |                      MXP A, MXP B                      |
+|                    |           Stockholm           |                          ARN A                         |
+|                    |             Warsaw            |                          WAW A                         |
+| Asia Pacific       |            Bangkok            |                      【BKK A, BKK D                     |
+|                    |           Bangalore           |                      【BLR A, BLR B                     |
+|                    |             Yangon            |                         【RGN D                         |
+|                    |             Medan             |                         【KNO A                         |
+|                    |             Mumbai            |        【BOM A, BOM B, BOM D, BOM E, BOM G, BOM H       |
+|                    |             Delhi             |                      【DEL A, DEL C                     |
+|                    |            Chennai            |                      【MAA A, MAA C                     |
+|                    |             Dhaka             |                      【DAC C, DAC D                     |
+|                    |             Dubai             |                   DXB A, DXB B, DXB C                  |
+|                    |            Fujairah           |                          FJR B                         |
+|                    |            Tel Aviv           |                          TLV A                         |
+|                    |           Hong Kong           |               【HKG A, HKG B, HKG D, HKG E              |
+|                    |  Hong Kong - China Optimized  |                         【HKG C                         |
+|                    |            Jakarta            |               【JKT A, JKT D, JKT E, JKT F              |
+|                    |            Karachi            |                         【KHI B                         |
+|                    |           Islamabad           |                         【ISB B                         |
+|                    |          Kuala Lumpur         |                      【KUL A, KUL C                     |
+|                    |             Manila            |               【MNL A, MNL B, MNL E, MNL F              |
+|                    |             Seoul             |                      【SEL A, SEL D                     |
+|                    |          Ho Chi Minh          |                      【SGN A, SGN C                     |
+|                    |             Hanoi             |                         【HAN B                         |
+|                    |           Singapore           |               【SIN A, SIN B, SIN C, SIN E              |
+|                    |             Taipei            |                  【TPE A, TPE C, TPE D                  |
+|                    |             Osaka             |                         【OSA A                         |
+|                    |             Tokyo             |                  【TYO A, TYO C, TYO E                  |
+|                    |    Tokyo - China Optimized    |                         【TYO D                         |
+|                    |             Sydney            |                         【SYD A                         |
+| Europe MiidAf rica |          Johannesburg         |                      JNB A, JNB B                      |
+|                    |             Lagos             |                      LOS A, LOS B                      |
+|                    |             Cairo             |                          CAI A                         |
 
 
 
