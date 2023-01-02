@@ -48,7 +48,7 @@ Click on **+ **_****_** Create**. After your selection is expanded, click on **C
 
 After doing so, you’ll be brought to the **Create Bare Metal Instance** __ page. Here, you will select the location you want to deploy your BMC. In our case, we’re going to select **Americas**, on the right-hand pane we will further specify **Los Angeles**. If the device configuration of your choosing isn’t available, you can select another zone to see its availability. Here, we’ve selected **LAX-H**.
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Next, we will select your host configuration. In our example, we’ve selected **MFC**, the configuration shown earlier. Below, you’ll see a few different distributions readily available for installation. In our case, vSphere ESXi 8.0 isn’t available, therefore we’ll demonstrate a manual installation by unselecting **Choose Your Operating System**. At the RAID configuration, we will navigate to the right-hand pane and select **Customized RAID Configuration** in blue. This allows us to create two different disk groups, (1) RAID 1 for the operating system and (1) RAID 1 for the capacity, in our case for the VMFS Datastore. For the purpose of this demo, we will leave **Create Partition** unselected and go with the defaults.
 

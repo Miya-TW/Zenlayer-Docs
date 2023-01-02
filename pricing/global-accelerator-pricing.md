@@ -52,7 +52,7 @@ For example, if you subscribe an extra line 10 days after the package subscripti
 \
 Click **Update Limit** to subscribe extra lines.
 
-<figure><img src="../.gitbook/assets/Article_2 (7).jpg" alt=""><figcaption><p>Subscribe an Extra Line</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Article_3 (4).jpg" alt=""><figcaption><p>Subscribe an Extra Line</p></figcaption></figure>
 
 ### **Extra Data Transfer**
 
@@ -64,7 +64,7 @@ Data transfer in excess of amount included in the package will be billed hourly 
 
 You can schedule a change on your package type for next subscription cycle by clicking on **Schedule Change**.
 
-<figure><img src="../.gitbook/assets/Article_3 (4).jpg" alt=""><figcaption><p>Schedule a Change on Your Package</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Article_2 (7).jpg" alt=""><figcaption><p>Schedule a Change on Your Package</p></figcaption></figure>
 
 ****
 
@@ -80,7 +80,7 @@ Acceleration package doesn’t support refund on the unused part before the subs
 
 Click **Update Limit** and decrease extra lines. The unused time will be refunded.
 
-<figure><img src="../.gitbook/assets/Article_4 (2).jpg" alt=""><figcaption><p>Decrease an Extra Line</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Article_2 (7) (1).jpg" alt=""><figcaption><p>Decrease an Extra Line</p></figcaption></figure>
 
 
 

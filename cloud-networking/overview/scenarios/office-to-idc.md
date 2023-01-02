@@ -6,7 +6,7 @@ description: >-
 
 # Office to IDC
 
-<figure><img src="../../../.gitbook/assets/Article_1.jpg" alt=""><figcaption><p>Office to IDC</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_1 (13).jpg" alt=""><figcaption><p>Office to IDC</p></figcaption></figure>
 
 * For a Layer 2 network connection\
   Establish a local loop from your office to the equipment port in our SDN POP, and then establish cross connect from your data center to the equipment port in our SDN POP.\
@@ -20,5 +20,5 @@ description: >-
 
 ## **What to Do Next**
 
-Contact Zenlayer Support (support@zenlayer.com) or click <img src="../../../.gitbook/assets/Article_2 (6).jpg" alt="" data-size="line"> on the upper-right corner of zenConsole to create Office-to-IDC connections.&#x20;
+Contact Zenlayer Support (support@zenlayer.com) or click <img src="../../../.gitbook/assets/Article_2 (10).jpg" alt="" data-size="line"> on the upper-right corner of zenConsole to create Office-to-IDC connections.&#x20;
 

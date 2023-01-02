@@ -64,7 +64,7 @@ You can go to **Billing** > **Invoices** to view real-time and historic billing.
 
 ### **What happens when you no longer have sufficient balance to continue a** cloud router**?**
 
-<figure><img src="../../.gitbook/assets/Article_1 (20).jpg" alt=""><figcaption><p>A Cloud Router Lifecycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (7).jpg" alt=""><figcaption><p>A Cloud Router Lifecycle</p></figcaption></figure>
 
 #### 1. Protection Stage (2 days since you run out of account balance)
 

@@ -75,7 +75,7 @@ You can go to **Billing** > **Invoices** to view real-time and historic billing.
 
 Once you no longer have remaining account balance (<0), the following process will ensue:
 
-<figure><img src="../../.gitbook/assets/Article_2 (9).jpg" alt=""><figcaption><p>A Private Connect Lifecycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (20) (2).jpg" alt=""><figcaption><p>A Private Connect Lifecycle</p></figcaption></figure>
 
 #### 1. Protection Stage (2 days since you run out of account balance)
 

@@ -56,6 +56,7 @@
   * [IPMI](bare-metal-cloud/overview/ipmi.md)
 * [Get Started](bare-metal-cloud/get-started/README.md)
   * [Create a Bare Metal Instance](bare-metal-cloud/get-started/create-a-bare-metal-instance.md)
+  * [Set up RAID](bare-metal-cloud/get-started/set-up-raid.md)
   * [Create an Elastic IP](bare-metal-cloud/get-started/create-an-elastic-ip.md)
   * [Create a Virtual Private Cloud](bare-metal-cloud/get-started/create-a-virtual-private-cloud.md)
   * [Create a Subnet](bare-metal-cloud/get-started/create-a-subnet.md)

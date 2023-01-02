@@ -52,7 +52,7 @@ Add at least 2 access points. You will need to select **Public Cloud** as the **
 
 
 
-    <figure><img src="../../../.gitbook/assets/Article_2 (2).jpg" alt=""><figcaption><p>Configure Routing Information</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Article_3 (1).jpg" alt=""><figcaption><p>Configure Routing Information</p></figcaption></figure>
 
     * **BGP Routing**\
       ****BGP (border gateway protocol) is usually used to maintain complex networks that contain many routers. BGP divides an intranet into groups of routers, or AS (automated systems), which have trusted routes between them. You must define the AS number on the routers in your network and configure at least one group that includes at least one peer. BGP supports MD5 (message-digest algorithm 5) to secure messages.
@@ -90,7 +90,7 @@ After your cross connect is established, the corresponding port state will chang
 
 A few minutes after your connection is created, your AWS account will receive your connection information in the **Direct Connect** > **Connections** list.
 
-<figure><img src="../../../.gitbook/assets/Article_3 (5).jpg" alt=""><figcaption><p>Validate Your Connection on AWS Console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_5.jpg" alt=""><figcaption><p>Validate Your Connection on AWS Console</p></figcaption></figure>
 
 1. Click **Accept** to validate your connection.
 2. Create a virtual interface and add a BGP peer.\

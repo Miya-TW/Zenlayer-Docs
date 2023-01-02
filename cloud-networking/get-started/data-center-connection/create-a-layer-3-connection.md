@@ -52,7 +52,7 @@ Add at least 2 access points by selecting **Data Center** as the **Access Point 
 &#x20;     4\) Enter the legal business name of the authorized party. \
 &#x20;          You will receive an LOA (letter of authorization) that is used to establish your cross connect.
 
-<figure><img src="../../../.gitbook/assets/Article_2 (8).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_2 (3).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
 
 &#x20;      <mark style="color:blue;">****</mark>       <img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
@@ -65,7 +65,7 @@ Add at least 2 access points by selecting **Data Center** as the **Access Point 
 
 #### 5. Configure the routing information.
 
-<figure><img src="../../../.gitbook/assets/Article_3 (1).jpg" alt=""><figcaption><p>Configure Routing Information</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_2 (2).jpg" alt=""><figcaption><p>Configure Routing Information</p></figcaption></figure>
 
 * **BGP Routing**\
   ****BGP (border gateway protocol) is usually used to maintain complex networks that contain many routers. BGP divides an intranet into groups of routers, or AS (automated systems), which have trusted routes between them. You must define the AS number on the routers in your network and configure at least one group that includes at least one peer. BGP supports MD5 (message-digest algorithm 5) to secure messages.

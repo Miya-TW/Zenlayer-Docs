@@ -61,7 +61,7 @@ If this is your first time creating a cloud connect, you will need to select a n
 4.  Enter the legal business name of the authorized party. You will receive an LOA (letter of authorization) that is used to establish your cross connect.\
 
 
-    <figure><img src="../../../.gitbook/assets/Article_3 (2).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Article_2 (3) (1).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
 
     <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
@@ -104,7 +104,7 @@ After your cross connect is established, the corresponding port state will chang
 
 ## **What to Do Next**
 
-<figure><img src="../../../.gitbook/assets/Article_5.jpg" alt=""><figcaption><p>Validate Connection on AWS Console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_3 (5).jpg" alt=""><figcaption><p>Validate Connection on AWS Console</p></figcaption></figure>
 
 A few minutes after your connection is created, your AWS account will receive your connection information in the **Direct Connect** > **Connections** list.
 
