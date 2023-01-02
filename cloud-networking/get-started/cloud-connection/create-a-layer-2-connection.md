@@ -24,17 +24,18 @@ After creating a private connect, you can contact Zenlayer support or your data 
 <figure><img src="../../../.gitbook/assets/Article_1 (19).jpg" alt=""><figcaption><p><strong>Layer-2 Cloud Connect</strong> </p></figcaption></figure>
 
 1. Select your cloud provider. \
-   As of now, zenConsole only supports AWS cloud. We will soon expand compatibility to other public clouds.
+   zenConsole supports AWS and Tencent Cloud connection.\
+   After creating the connection, see [**Validate Connection in Public Cloud**](validate-connection-in-public-cloud.md) for more details.
 2.  Select the cloud connect closest to your infrastructure on the public cloud to guarantee high network performance.\
     \
     <img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
-    * <mark style="color:blue;">If your cloud provider is not AWS, please contact Zenlayer support to create your cloud router.</mark>
+    * <mark style="color:blue;">If your public cloud provider is not AWS or Tencent Cloud, please contact Zenlayer support to create your cloud router.</mark>
     * <mark style="color:blue;">If all locations are too far away, please contact Zenlayer support to create your new cloud connect.</mark>
 
 
 3. Label your cloud connect for identification.
-4. Enter your AWS account ID – a 12-digit number like 123456789012.
+4. Enter your cloud account ID – a 12-digit number like 123456789012.
 
 
 
@@ -91,7 +92,7 @@ Configure the connection between the cloud and the destination port.
 
 ## **Result**
 
-After your cross connect is established, the corresponding port state will change to **Active** and you will receive a notification email. Once the destination port is active and you have accepted the connection on AWS Console, your private connect state will become **Active**.\ <mark style="color:blue;">****</mark>
+After your cross connect is established, the corresponding port state will change to **Active** and you will receive a notification email. Once the destination port is active and you have validated the connection on public cloud Console, your private connect state will become **Active**.\ <mark style="color:blue;">****</mark>
 
 <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
@@ -99,16 +100,4 @@ After your cross connect is established, the corresponding port state will chang
 2. <mark style="color:blue;">Billing for your port will start:</mark>
    * <mark style="color:blue;">when the port is active.</mark>
    * <mark style="color:blue;">15 days after you submit the order – whether or not your cross connect has been established.</mark>
-
-
-
-## **What to Do Next**
-
-<figure><img src="../../../.gitbook/assets/Article_3 (5).jpg" alt=""><figcaption><p>Validate Connection on AWS Console</p></figcaption></figure>
-
-A few minutes after your connection is created, your AWS account will receive your connection information in the **Direct Connect** > **Connections** list.
-
-1. Click **Accept** to validate your connection.
-2. Create a virtual interface and add a BGP peer.\
-   Please see [**AWS Documentation**](https://docs.aws.amazon.com/directconnect/latest/UserGuide/create-vif.html) for more details.
 

@@ -33,12 +33,14 @@ Add at least 2 access points. You will need to select **Public Cloud** as the **
 
 1. Select **Public Cloud** as the Access Point Type.\
 
-2. Select your cloud provider. As of now, zenConsole only supports AWS cloud. We will soon expand compatibility to other public clouds.\
+2. Select your cloud provider. \
+   zenConsole supports AWS and Tencent Cloud connection.\
+   After creating the connection, see [**Validate Connection in Public Cloud**](validate-connection-in-public-cloud.md) for more details.\
 
 3. Select the cloud connect closest to your infrastructure on the public cloud to guarantee high network performance.\
    \
    <img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
-   * <mark style="color:blue;">If your cloud provider is not AWS, please contact Zenlayer support to create your cloud router.</mark>
+   * <mark style="color:blue;">If your cloud provider is not AWS or Tencent Cloud, please contact Zenlayer support to create your cloud router.</mark>
    * <mark style="color:blue;">If all locations are too far away, please contact Zenlayer support to create your new cloud connect.</mark>\ <mark style="color:blue;"></mark>
 4. Label your cloud connect for identification.\
 
@@ -85,14 +87,3 @@ After your cross connect is established, the corresponding port state will chang
    * <mark style="color:blue;">15 days after you submit the order – whether or not your cross connect has been established.</mark>
 
 <mark style="color:blue;"></mark>
-
-## **What to Do Next**
-
-A few minutes after your connection is created, your AWS account will receive your connection information in the **Direct Connect** > **Connections** list.
-
-<figure><img src="../../../.gitbook/assets/Article_5.jpg" alt=""><figcaption><p>Validate Your Connection on AWS Console</p></figcaption></figure>
-
-1. Click **Accept** to validate your connection.
-2. Create a virtual interface and add a BGP peer.\
-   Please see [**AWS Documentation**](https://docs.aws.amazon.com/directconnect/latest/UserGuide/create-vif.html) for more details.
-

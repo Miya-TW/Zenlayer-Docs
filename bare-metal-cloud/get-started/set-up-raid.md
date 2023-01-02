@@ -33,7 +33,7 @@ Application scenarios explanation:
 
 After selecting your instance specification, check the **Disk** and **RAID** columns.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Instance Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Instance Configuration</p></figcaption></figure>
 
 With only 1 disk, the RAID setup is unavailable.
 

@@ -105,6 +105,7 @@
   * [Cloud Connection](cloud-networking/get-started/cloud-connection/README.md)
     * [Create a Layer 2 Connection](cloud-networking/get-started/cloud-connection/create-a-layer-2-connection.md)
     * [Create a Layer 3 Connection](cloud-networking/get-started/cloud-connection/create-a-layer-3-connection.md)
+    * [Validate Connection in Public Cloud](cloud-networking/get-started/cloud-connection/validate-connection-in-public-cloud.md)
   * [Connection Management](cloud-networking/get-started/connection-management/README.md)
     * [Manage Your Private Connect](cloud-networking/get-started/connection-management/manage-your-private-connect.md)
     * [Manage Your Cloud Router](cloud-networking/get-started/connection-management/manage-your-cloud-router.md)
