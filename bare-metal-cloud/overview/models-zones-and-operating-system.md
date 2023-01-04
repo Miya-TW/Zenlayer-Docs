@@ -72,7 +72,7 @@ The table below displays the cities and zones that are available, but the accura
 |                               |             Madrid            |                      MAD A, MAD B                      |
 |                               |             Moscow            |                   MOW A, MOW B, MOW C                  |
 |                               |           Marseilles          |                          MRS A                         |
-|                               |             Paris             |                   PAR A, PAR B, PAR C                  |
+|                               |             Paris             |                      PAR B, PAR C                      |
 |                               |             Milan             |                      MXP A, MXP B                      |
 |                               |           Stockholm           |                          ARN A                         |
 |                               |             Warsaw            |                          WAW A                         |
