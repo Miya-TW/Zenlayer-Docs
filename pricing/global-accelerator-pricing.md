@@ -4,15 +4,14 @@
 
 ### **Acceleration Package**
 
-Zenlayer global accelerator offers four types of subscription package: Basic, Growth, Plus, Pro and Max. Each package includes the quota of data transfer and acceleration lines. See details below.
+Zenlayer global accelerator offers four types of subscription package: Starter, Plus, Pro and Max. Each package includes the quota of data transfer and acceleration lines. See details below.
 
 | Package | Data Transfer | Acceleration Region | Line Bandwidth Cap | Connection |
 | ------- | ------------- | ------------------- | ------------------ | ---------- |
-| Basic   | 200 GB        | 3                   | 20 Mbps            | 15,000     |
-| Growth  | 500 GB        | 6                   | 40 Mbps            | 30,000     |
-| Plus    | 1,000 GB      | 10                  | 60 Mbps            | 50,000     |
-| Pro     | 5,000 GB      | 14                  | 100 Mbps           | 100,000    |
-| Max     | 10,000 GB     | 20                  | Unlimited          | Unlimited  |
+| Starter | 500 GB        | 6                   | 40 Mbps            | 30,000     |
+| Plus    | 1,024 GB      | 10                  | 60 Mbps            | 50,000     |
+| Pro     | 5,120 GB      | 14                  | 100 Mbps           | 100,000    |
+| Max     | 10,240 GB     | 20                  | Unlimited          | Unlimited  |
 
 ### **Extra Acceleration Line**
 
