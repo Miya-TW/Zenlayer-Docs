@@ -36,7 +36,7 @@ You can go to **Billing** > **Invoices** to view real-time and historic billing.
 
 Once you no longer have remaining account balance (<0), the following process will ensue:
 
-<figure><img src="../../.gitbook/assets/Article_1 (20) (1).jpg" alt=""><figcaption><p>An AWS Hosted Connection Lifecycle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_1 (20) (2).jpg" alt=""><figcaption><p>An AWS Hosted Connection Lifecycle</p></figcaption></figure>
 
 #### 1. Protection Stage (2 days since you run out of account balance)
 

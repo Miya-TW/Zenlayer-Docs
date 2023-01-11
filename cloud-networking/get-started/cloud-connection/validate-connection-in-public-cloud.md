@@ -10,7 +10,7 @@ description: >-
 
 If your public cloud provider is AWS, a few minutes after your connection is created, your AWS account will receive your connection information in the **Direct Connect** > **Connections** list.
 
-<figure><img src="../../../.gitbook/assets/Article_3 (5).jpg" alt=""><figcaption><p>Validate Connection on AWS Console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Article_5.jpg" alt=""><figcaption><p>Validate Connection on AWS Console</p></figcaption></figure>
 
 1. Click **Accept** to validate your connection.
 2. Create a virtual interface and add a BGP peer.\

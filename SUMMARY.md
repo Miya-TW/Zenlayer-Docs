@@ -109,6 +109,8 @@
   * [Connection Management](cloud-networking/get-started/connection-management/README.md)
     * [Manage Your Private Connect](cloud-networking/get-started/connection-management/manage-your-private-connect.md)
     * [Manage Your Cloud Router](cloud-networking/get-started/connection-management/manage-your-cloud-router.md)
+* [Best Practice](cloud-networking/best-practice/README.md)
+  * [Create a Multi-cloud Connection in Cloud Networking](cloud-networking/best-practice/create-a-multi-cloud-connection-in-cloud-networking.md)
 * [Cloud Networking Release Notes](cloud-networking/cloud-networking-release-notes.md)
 
 ## 🌐 Global Accelerator

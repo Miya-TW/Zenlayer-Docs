@@ -31,7 +31,7 @@ To build a VPC over the Zenlayer bare metal instances, we will perform the follo
 2.  Assume that a user chooses the ubuntu 20.04 as the OS and here it is the `ip a` output from console:\
 
 
-    <figure><img src="../../.gitbook/assets/Article_1 (11).jpg" alt=""><figcaption><p><br></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_1 (12).jpg" alt=""><figcaption><p><br></p></figcaption></figure>
 
 
 3.  To build a VPC, the plan is to get one server for the private cloud controller and two servers for the virtual machines, therefore placing the order of 3 bare metal instances and got them running:\
@@ -97,7 +97,7 @@ To build your own private cloud, a controller server is the key module by making
 * Test802Q-02 server - KVM Server 2 (data plane)
 * Test802Q-01 server - KVM server 1 (data plane)
 
-<figure><img src="../../.gitbook/assets/Article_29.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Article_7.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -396,7 +396,7 @@ While in this case, the OS has been installed with Zenlayer console, and this is
 
 
 
-    <figure><img src="../../.gitbook/assets/Article_7.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Article_29.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

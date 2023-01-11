@@ -62,7 +62,7 @@ If this is your first time creating a cloud connect, you will need to select a n
 4.  Enter the legal business name of the authorized party. You will receive an LOA (letter of authorization) that is used to establish your cross connect.\
 
 
-    <figure><img src="../../../.gitbook/assets/Article_2 (3) (1).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Article_2 (3).jpg" alt=""><figcaption><p>Download LOA File</p></figcaption></figure>
 
     <mark style="color:blue;">****</mark><img src="../../../.gitbook/assets/Icon.svg" alt="" data-size="line"><mark style="color:blue;">**Note**</mark>
 
