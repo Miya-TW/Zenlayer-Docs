@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/【首图】样式4 (2).svg
+cover: .gitbook/assets/DocCenter topbanner 2.svg
 coverY: 0
 layout: landing
 ---
