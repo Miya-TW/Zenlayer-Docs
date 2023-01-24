@@ -4,4 +4,4 @@ description: Follow the guides to discover best practices in Zenlayer Cloud Netw
 
 # Best Practice
 
-* [Create a Multi-cloud Connection in Cloud Networking](create-a-multi-cloud-connection-in-cloud-networking.md)
+* [Create a Multi-cloud Connection in Cloud Networking](broken-reference)
