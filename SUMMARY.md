@@ -111,6 +111,8 @@
     * [Manage Your Cloud Router](cloud-networking/get-started/connection-management/manage-your-cloud-router.md)
 * [Best Practice](cloud-networking/best-practice/README.md)
   * [Create a Multi-cloud Connection in Cloud Networking](cloud-networking/best-practice/create-a-multi-cloud-connection-in-cloud-networking.md)
+  * [ORIGINAL - Create a Multi-cloud Connection in Cloud Networking](cloud-networking/best-practice/original-create-a-multi-cloud-connection-in-cloud-networking.md)
+  * [Copy of Create a Multi-cloud Connection in Cloud Networking](cloud-networking/best-practice/copy-of-create-a-multi-cloud-connection-in-cloud-networking.md)
 * [Cloud Networking Release Notes](cloud-networking/cloud-networking-release-notes.md)
 
 ## 🌐 Global Accelerator
