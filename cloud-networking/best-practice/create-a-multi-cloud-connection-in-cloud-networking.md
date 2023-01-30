@@ -160,3 +160,5 @@ Wait for a few minutes until your shared dedicated tunnel is connected and the B
 
 You can check on the status in the advanced configuration of the shared dedicated tunnel - **test-fra**.
 
+After your Tencent cloud is connected to your AWS cloud, you'll be able to transfer data between them easily and securely.
+
