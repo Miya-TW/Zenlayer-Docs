@@ -4,7 +4,7 @@
 
 Generally speaking, your service will go through the following lifecycle:
 
-<img src="../.gitbook/assets/file.drawing (1).svg" alt="Service Lifecycle" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing.svg" alt="Service Lifecycle" class="gitbook-drawing">
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Caution**</mark>
