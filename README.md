@@ -12,17 +12,8 @@ layout: landing
 
 <details>
 
-<summary><a href="platform/overview.md#2.-dashboard">Upgrade zenConsole dashboard layout</a></summary>
+<summary><mark style="color:blue;">Added onboarding support for new users</mark></summary>
 
-Change the position of **Menu** and **Team Management**.
 
-</details>
-
-<details>
-
-<summary><a href="bare-metal-cloud/bare-metal-release-notes.md">Upgrade to further enhance bare metal security</a></summary>
-
-* Upgrade IPMI access control
-* Upgrade agent architecture
 
 </details>

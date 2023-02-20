@@ -15,9 +15,9 @@ description: >-
 
 &#x20;
 
-## **2022**
+## **October 2022**
 
-### **October 16**
+### **October 16, 2022**
 
 <details>
 
@@ -80,44 +80,6 @@ Added new access point type – VPC (Virtual Private Cloud)
 <!---->
 
 * Updated global acceleration test tool.
-
-</details>
-
-## **2023**
-
-### February 20
-
-<details>
-
-<summary>zenConsole – Your Web Portal</summary>
-
-* Added onboarding support for new users.
-* Updated product menu and personal settings.
-
-</details>
-
-<details>
-
-<summary>Bare Metal Cloud</summary>
-
-* Updated column headers of instance list, adding Configuration.
-* Added support for resource group change.&#x20;
-
-</details>
-
-<details>
-
-<summary>Virtual Machine</summary>
-
-You can filter specifications of instances while creating one.
-
-</details>
-
-<details>
-
-<summary>Cloud Networking</summary>
-
-Upgraded private connect creation procedures without distinguishing between data center interconnect and cloud connect.&#x20;
 
 </details>
 
