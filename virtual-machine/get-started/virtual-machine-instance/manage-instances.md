@@ -38,5 +38,5 @@ On the instance list interface, click VPC name in the **Network** column to view
 
 ## **Storage Information**
 
-Click **Storage** in the **Configuration** column to view the disk list. You can also hover on <img src="../../../.gitbook/assets/1.png" alt="" data-size="line"> to simply know about the size of different kind of disks.
+Click **Storage** in the **Configuration** column to view the disk list. You can also hover on <img src="../../../.gitbook/assets/1 (5).png" alt="" data-size="line"> to simply know about the size of different kind of disks.
 

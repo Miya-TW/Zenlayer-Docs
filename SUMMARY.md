@@ -65,7 +65,6 @@
   * [Start Kubernetes Cluster Using K3S in Bare Metal Cloud](bare-metal-cloud/best-practice/start-kubernetes-cluster-using-k3s-in-bare-metal-cloud.md)
   * [Build Your Private Cloud over Bare Metal](bare-metal-cloud/best-practice/build-your-private-cloud-over-bare-metal.md)
   * [vSphere Stand-Alone on Zenlayer Bare Metal Cloud](bare-metal-cloud/best-practice/vsphere-stand-alone-on-zenlayer-bare-metal-cloud.md)
-  * [vSphere Stand-Alone on Zenlayer Bare Metal Cloud](bare-metal-cloud/best-practice/vsphere-stand-alone-on-zenlayer-bare-metal-cloud-1.md)
 * [Bare Metal Release Notes](bare-metal-cloud/bare-metal-release-notes.md)
 
 ## 🔵 Virtual Machine
