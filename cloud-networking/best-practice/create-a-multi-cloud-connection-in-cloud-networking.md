@@ -7,7 +7,7 @@ Zenlayer's global backbone provides multiple public cloud connections to manage 
 ## Background Information <a href="#background-information" id="background-information"></a>
 
 * For this demo, we will be using Zenlayer Cloud Router, a layer 3 networking product. If you need a layer 2 connection, you can still reference this guide as the deployment process is very similar. Choose the best connection type based on your actual network topology.
-* See [**Layer 3 connection**](broken-reference) for the basic steps for deployment. The specific configurations are as follows.
+* See [**Layer 3 connection**](../get-started/create-a-layer-3-connection/) for the basic steps for deployment. The specific configurations are as follows.
 
 
 
@@ -28,7 +28,7 @@ Assuming that you have AWS services active in Hong Kong:
    * Your ASN: AWS' ASN, **64512** by default
    * Zenlayer ASN: **62610**
    * BGP MD5: You can customize it or copy AWS’ system-generated key. Just be sure to synchronize with the BGP authentication key on AWS.
-3. Configure the bandwidth. AWS direct connect provides bandwidth caps like 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, and 10 Gbps. Your access bandwidth will be the nearest cap higher than your configuration.
+3. Configure the bandwidth. AWS direct connect provides bandwidth caps like 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, and 10 Gbps. You will be charged for the nearest cap higher than your configuration as the cloud connect bandwidth. Your actual access bandwidth of the access point is still what you have configured.
 
 The final configurations are as follows:
 
@@ -47,7 +47,7 @@ Assuming that you have Tencent Cloud services active in Frankfurt:
    * Your ASN: Tencent's ASN, **45090** by default
    * Zenlayer ASN: **62610**
    * BGP MD5: You can customize it or synchronize it with the BGP authentication key on Tencent Cloud.
-3. Configure the bandwidth. Tencent direct connect provides bandwidth specifications like 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, 8 Gbps, 10 Gbps, 40 Gbps, and 100 Gbps. Your access bandwidth will be the nearest cap higher than your configuration.
+3. Configure the bandwidth. Tencent direct connect provides bandwidth specifications like 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, 8 Gbps, 10 Gbps, 40 Gbps, and 100 Gbps. You will be charged for the nearest cap higher than your configuration as the cloud connect bandwidth. Your actual access bandwidth of the access point is still what you have configured.
 
 The final configurations are as follows:
 
