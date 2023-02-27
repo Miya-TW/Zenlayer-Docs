@@ -27,5 +27,5 @@ description: >-
 
 ## **What to Do Next**
 
-See [**Cloud Connection**](../../get-started/cloud-connection/) for more specific details.
+See [**Cloud Connection**](broken-reference) for more specific details.
 

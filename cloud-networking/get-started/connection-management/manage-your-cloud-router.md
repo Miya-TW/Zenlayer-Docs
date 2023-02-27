@@ -7,13 +7,13 @@
 *   **Inactive**
 
     The port or cloud router is not connected.
-* **Active**\
-  The port or cloud router is connected.
+* **Up**\
+  The port or cloud router is connected and running.
 * **Down**\
   The port or cloud router is disabled.
-* **Abnormal**\
-  One or more ports or connections are down.
-* **Paused**\
+* **Warning**\
+  One or more ports or connections are down and abnormal.
+* **Power off**\
   You deleted your service, or your balance is 2 days overdue.
 
 {% hint style="info" %}

@@ -2,12 +2,12 @@
 
 Zenlayer's global backbone provides multiple public cloud connections to manage your data across cloud service providers like Amazon Web Services (AWS) and Tencent Cloud. A multi-cloud connection is great for synchronizing or migrating large amounts of data between various clouds.
 
-
+<figure><img src="../../.gitbook/assets/多云连接拓扑图.drawio.png" alt=""><figcaption></figcaption></figure>
 
 ## Background Information <a href="#background-information" id="background-information"></a>
 
 * For this demo, we will be using Zenlayer Cloud Router, a layer 3 networking product. If you need a layer 2 connection, you can still reference this guide as the deployment process is very similar. Choose the best connection type based on your actual network topology.
-* See [**Layer 3 connection**](../get-started/cloud-connection/create-a-layer-3-connection.md) for the basic steps for deployment. The specific configurations are as follows.
+* See [**Layer 3 connection**](broken-reference) for the basic steps for deployment. The specific configurations are as follows.
 
 
 

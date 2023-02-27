@@ -1,16 +1,20 @@
 # Manage Your Private Connect
 
-<figure><img src="../../../.gitbook/assets/Article_1 (15).jpg" alt=""><figcaption><p>Private Connect Management</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Private Connect Management</p></figcaption></figure>
 
 ## **State of Your Private Connect and Port**
 
 * **Inactive**\
   The port or private connect is not connected.
-* **Active**\
-  The port or private connect is connected.
+* **Deploying**\
+  The port or private connect is being deployed.&#x20;
+* **Up**\
+  The port or private connect is connected and running.
+* **Warning**\
+  The port or private connect is abnormal.
 * **Down**\
   The port or private connect is disabled.
-* **Paused** \
+* **Power off** \
   You deleted your service, or your balance is 2 days overdue.
 
 {% hint style="info" %}
@@ -23,9 +27,9 @@
 
 1. Expand the private connect to view your port or cloud connect details.
 2. Click the label of your private connect to:
-   * View your bandwidth graph in the **Usage Chart**
+   * View your bandwidth graph in the **Overview**
    * Update your notes in **Information**
-   * Change your bandwidth cap in **Update Configuration**
+   * Change your bandwidth cap in **Configuration**
    * Delete your private connect in **Delete**
 
 {% hint style="info" %}
@@ -44,7 +48,7 @@
 1. Expand the port to view details of private connects created on your port.
 2. Click **+ Connection** to create a new private connect on the existing port.
 3. Click the label of your port to:
-   * View your bandwidth graph in the **Usage Chart**
+   * View your bandwidth graph in the **Overview**
    * Change LOA owner or update your notes in **Information**
    * View the **Change History** of your port
    * Delete your port in **Delete**
@@ -62,10 +66,4 @@
 ## **Cloud View**
 
 View a private connect with Public Cloud set as the Access Point Type. Please see [**Private Connect View**](manage-your-private-connect.md#private-connect-view) on how to manage your connections.
-
-
-
-## **+ New Port**
-
-On the upper-right corner, click **+ New Port** to create a new port that can be used to create a private connect or cloud router in the future.
 
