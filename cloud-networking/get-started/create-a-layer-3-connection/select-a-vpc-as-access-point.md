@@ -6,7 +6,7 @@ description: >-
 
 # Select a VPC as Access Point
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>VPC Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>VPC Connection</p></figcaption></figure>
 
 If you have created a [VPC](../../../bare-metal-cloud/overview/virtual-private-cloud.md), and you want resources in this VPC can communicate with other resources in your data center or infrastructures in your public cloud, add this VPC as an access point into a cloud router.
 

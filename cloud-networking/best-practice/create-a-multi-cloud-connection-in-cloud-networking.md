@@ -2,7 +2,7 @@
 
 Zenlayer's global backbone provides multiple public cloud connections to manage your data across cloud service providers like Amazon Web Services (AWS) and Tencent Cloud. A multi-cloud connection is great for synchronizing or migrating large amounts of data between various clouds.
 
-<figure><img src="../../.gitbook/assets/多云连接拓扑图.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Multi-cloud Connection</p></figcaption></figure>
 
 ## Background Information <a href="#background-information" id="background-information"></a>
 
