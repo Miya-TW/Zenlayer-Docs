@@ -35,7 +35,15 @@ You can set a bandwidth cap for your stable business with little bursty traffic,
 
 ### Burstable 95th
 
-You use first and pay afterward by month. If you have a base commit rate, you need to pre-pay that part first. The system samples the peak bandwidth of each instance monthly, and discard the top 5% of the samples. The highest value left is taken as your actual bandwidth usage.
+You use first and pay afterward by month. If you have a base commit rate, you need to pre-pay that part first. The system samples the peak bandwidth of each instance monthly, and discard the top 5% of the samples. The highest value left is taken as your actual bandwidth usage. Instances with pricing model of burstable 95th will be billed as follows:
+
+Monthly payment = Resource payment (Monthly price of computing + storage) + Bandwidth payment (95th percentile bandwidth (Mbps) × Monthly price per Mbps × Effective factor).
+
+{% hint style="info" %}
+<mark style="color:blue;">**Note**</mark>
+
+<mark style="color:blue;">Effective factor = Number of valid days in a calendar month/Total number of days in the calendar month.</mark>
+{% endhint %}
 
 There are 3 kinds of burstable 95th billing models:
 
