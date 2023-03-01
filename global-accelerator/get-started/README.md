@@ -1,12 +1,10 @@
 # Get Started
 
-To successfully accelerate your web/application with ZGA, please follow the next steps, among which the first and second step are indispensable.
+To successfully accelerate your web/application with ZGA, please follow the steps below.
 
 <figure><img src="../../.gitbook/assets/rtaImage (1).jpeg" alt=""><figcaption></figcaption></figure>
 
-**Quick Navigation:**
-
-* [Create an Accelerator](create-an-accelerator.md)
+* [Create an Accelerator](broken-reference)
 * [Add DNS Record](add-dns-record.md)
 * [Manage Accelerators](manage-accelerators.md)
 * [Analytics](analytics.md)

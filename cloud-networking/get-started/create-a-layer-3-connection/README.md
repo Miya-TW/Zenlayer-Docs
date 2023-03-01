@@ -21,20 +21,20 @@ If you need a Layer 3 network connection - the [cloud router](../../overview/con
 
 ## Procedures
 
-On the left navigation panel of zenConsole, go to **Cloud Networking** > **Cloud Router** > [**Create Cloud Router**](https://console.zenlayer.com/sdn/router/create). \
+On the upper left corner of zenConsole, go to **Products** > **Cloud Networking** > **Cloud Router** > [**Create Cloud Router**](https://console.zenlayer.com/sdn/router/create). \
 The overall steps of creating a cloud router is shown below. For detailed operations, please refer to the links of specific chapters.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Create a Cloud Router</p></figcaption></figure>
 
-### Label Your Cloud Router&#x20;
+### 1. Label Your Cloud Router&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Label your cloud router for identification. Click **Continue** to add access points.&#x20;
 
 
 
-### Add Access Points
+### 2. Add Access Points
 
 You need to add at least 2 access points and configure routing and network information to get started. You will be able to make updates in the future.\
 You may have the following options to add:
@@ -45,7 +45,7 @@ You may have the following options to add:
 
 
 
-### Configure Routing
+### 3. Configure Routing
 
 If you add access points like data centers or public clouds, you need to configure routing protocols to achieve network communication. If you add a VPC, go to configure network directly.
 
@@ -56,7 +56,7 @@ You may have the following options, and if your device supports Border Gateway P
 
 
 
-### Configure Network
+### 4. Configure Network
 
 [Configure the network information](configure-network-information.md) of your cloud router.\
 You need to configure the access bandwidth of your access point. &#x20;

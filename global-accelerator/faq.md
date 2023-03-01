@@ -7,7 +7,7 @@
 The same origin site has different domain names for user access?\
 **A:**\
 If you have multiple domain names accessed by users to the same origin site, for example, users in different regions access different domain names, you need to create multiple accelerators because each accelerator can only accelerate one domain name.\
-Learn how to [create accelerator](get-started/create-an-accelerator.md).\
+Learn how to [create accelerator](broken-reference).\
 &#x20;
 
 #### &#x20;**Troubleshooting Sector**
