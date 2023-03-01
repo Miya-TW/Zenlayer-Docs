@@ -2,7 +2,7 @@
 
 To successfully accelerate your web/application with ZGA, please follow the next steps, among which the first and second step are indispensable.
 
-
+<figure><img src="../../.gitbook/assets/rtaImage (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 **Quick Navigation:**
 

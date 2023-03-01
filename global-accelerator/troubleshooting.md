@@ -14,8 +14,9 @@ Troubleshoot the origin server if the direct access and telnet fail. If the dire
 * Ping the CNAME to check if the request can be forwarded to the IP of ZGA PoP and the latency
 
 &#x20;      _\*Please conduct the action in the same acceleration region where the issue occurs_\
-&#x20;      _\*You can find the IP of ZGA PoP  (i.e. VIP) at the accelerator's detail page on  Console_\
-&#x20;       __       &#x20;
+&#x20;      _\*You can find the IP of ZGA PoP  (i.e. VIP) at the accelerator's detail page on  Console_
+
+<figure><img src="../.gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
 
 * If the ping fails, traceroute the domain name (accessed by end user) to locate the exact hop where the issue is
 

@@ -14,6 +14,13 @@ _A CNAME (canonical name) is a type of resource record in the DNS (domain name s
 Follow the guides listed below to add a CNAME record to your DNS.\
 &#x20;
 
+| AWS            |   [Creating and managing traffic policies - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/traffic-policies.html)                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NS1            |  [Creating a DNS record – NS1 Help Center](https://help.ns1.com/hc/en-us/articles/360020258073-Creating-a-DNS-record)                                            |
+| Cloudflare     |  [Managing DNS records in Cloudflare – Cloudflare Help Center](https://support.cloudflare.com/hc/en-us/articles/360019093151-Managing-DNS-records-in-Cloudflare) |
+| GoDaddy        |  [Add a CNAME record \| Domains - GoDaddy Help US](https://www.godaddy.com/help/add-a-cname-record-19236)                                                        |
+| Google Domains |  [Manage resource records - Google Domains Help](https://support.google.com/domains/answer/3290350#zippy=%2Cadd-a-resource-record)                               |
+
 \
 If you use another DNS provider, please reach out to them directly for instructions on how to add a CNAME record.\
 &#x20;

@@ -139,7 +139,7 @@ Wait for a few minutes until your AWS direct connect is available and the BGP pe
 2.  Go to [**Direct Connect**](https://console.tencentcloud.com/dc/dc), click on **Direct Connect Gateway**, then **+New** to create a direct connect gateway and give it a name (**test-GW** in this example). Attach **test-GW** to the VPC - **test-VPC**. \
 
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Direct Connect Gateway Creation</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Direct Connect Gateway Creation</p></figcaption></figure>
 3. Go to [**Direct Connect**](https://console.tencentcloud.com/dc/conn) > **Dedicated Tunnels**, click on **+ New** to apply for a shared tunnel, and name it **test-fra**. Attach **test-fra** to the VPC - **test-VPC** and the direct connect gateway - **test-GW**.
    * Connection provider ID: Zenlayer is the connection provider. Here the ID is **100000669731**.
    * Shared tunnel ID: The ID of the connection instance used to create the shared tunnel, usually starting with **dc-**. Here, it is **dc-povc6phh**.
