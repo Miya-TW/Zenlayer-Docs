@@ -22,7 +22,7 @@ Application scenarios explanation:
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-* You should have at least 2 dives to set up RAID.
+* You should have at least 2 drives to set up RAID.
 * Instances with models of LCC, LCE and LCG do not support RAID setup.
 * RAID Quick Setup is used for disks with the same storage space, Customized Setup for disks with different storage space.
 * If you have more than 4 disks, using RAID 10 instead of RAID 1 in RAID Quick Setup, because RAID 1 needs only 2 disks and the other two will be wasted.
