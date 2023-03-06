@@ -13,7 +13,7 @@ description: >-
 <summary>March 6, 2023</summary>
 
 * Added support for Google Cloud connection.
-* Added support for IPsec connection.
+* Added support for Virtual Edge - IPsec connection.
 
 </details>
 

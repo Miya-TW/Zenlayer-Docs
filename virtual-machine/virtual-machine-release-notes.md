@@ -12,8 +12,8 @@ description: >-
 
 <summary>March 6, 2023</summary>
 
-* Added support for custom image. You can quickly create virtual machine instances with the same configuration as the custom image by using it as the system disk.
-* Added support for different billing cycles. You can subscribe the service for 1 month, 3 months, 6 months and etc.
+* Added support for the custom image. You can quickly create virtual machine instances with the same configuration as the custom image by using it as the system disk.
+* Added support for different billing cycles of instance subscription. You can subscribe the service for 1 month, 3 months, 6 months and etc.
 
 </details>
 

@@ -2,7 +2,7 @@
 
 Go to **Billing Center** > **Subscriptions** to view all your active and inactive orders. You can click on a resource name to view its details.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Subscriptions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Subscriptions</p></figcaption></figure>
 
 ## **Active**
 

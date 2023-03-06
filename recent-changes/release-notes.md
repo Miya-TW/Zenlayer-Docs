@@ -23,24 +23,24 @@ description: >-
 
 #### zenConsole – Your Web Portal
 
-* Upgraded menu bar by increasing **Products** and **Solutions** button.
-* Upgraded search bar and shortcuts by increasing **Docs**.
+* Upgraded menu bar by increasing Dashboard icon, **Products** and **Solutions** buttons.
+* Upgraded search bar and increased shortcut to **Docs**.
 * Upgraded snapshot of **Billing Center** by displaying the current balance.
 
 #### Bare Metal
 
 * Upgraded bare metal menu list.
-* Upgraded **Public Virtual Interface** to **VLAN**.
+* Upgraded the product name of **Public Virtual Interface** to **VLAN**.
 
 #### Virtual Machine
 
-* Added support for custom image.
-* Added support for different billing cycles.
+* Added support for the custom image.
+* Added support for different billing cycles of instance subscription.
 
 #### Cloud Networking
 
 * Added support for Google Cloud connection.
-* Added support for IPsec connection.
+* Added support for Virtual Edge - IPsec connection.
 
 </details>
 

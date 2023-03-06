@@ -4,7 +4,7 @@ description: Vouchers can be used to deduct fees only for specific products.
 
 # Vouchers
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Vouchers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Vouchers</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

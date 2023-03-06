@@ -27,7 +27,7 @@ See [**Overview**](platform/overview.md) for details.
 
 <summary><mark style="color:blue;">Upgraded <strong>Public Virtual Interface</strong> to <strong>VLAN</strong></mark></summary>
 
-Upgraded bare metal menu list and **Public Virtual Interface** to **VLAN**
+Upgraded bare metal menu list and the product name of **Public Virtual Interface** to **VLAN**
 
 </details>
 
@@ -36,7 +36,7 @@ Upgraded bare metal menu list and **Public Virtual Interface** to **VLAN**
 <summary><mark style="color:blue;">Added kinds of access points support for cloud networking</mark></summary>
 
 * Added support for Google Cloud connection.
-* Added support for IPsec connection.
+* Added support for Virtual Edge - IPsec connection.
 
 </details>
 

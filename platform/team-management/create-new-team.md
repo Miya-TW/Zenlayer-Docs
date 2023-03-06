@@ -14,11 +14,11 @@ If you haven’t created any teams before, you can create one here.
 <mark style="color:blue;">You can only use one email address per team creation. If you have already created a team, skip to the next chapter.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Create New Team</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Create New Team</p></figcaption></figure>
 
 ## Procedures
 
-1. Go to <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Create New Team**.
+1. Go to <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Create New Team**.
 2. Choose **Individual** or **Enterprise** according to your team type.
 3. Enter your team's billing information.
 4. Click on **Get Started** to create your new team.

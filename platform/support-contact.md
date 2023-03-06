@@ -6,13 +6,13 @@ description: >-
 
 # Support Contact
 
-Click <img src="../.gitbook/assets/image (24).png" alt="" data-size="line"> on the upper right corner of the zenConsole to contact Zenlayer support.
+Click <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> on the upper right corner of the zenConsole to contact Zenlayer support.
 
 ## Contact Us
 
 You can report issues, inquire products, navigate sites, or just call us.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Support Contact</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Support Contact</p></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ You can report issues, inquire products, navigate sites, or just call us.
 
 Click **Authorize** and provide the authorization code to a Zenlayer Support team member. Our support will can access your account in the next 48 hours and help you troubleshoot on your behalf.
 
-<img src="../.gitbook/assets/image (15).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

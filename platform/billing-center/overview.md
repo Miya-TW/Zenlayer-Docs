@@ -12,7 +12,7 @@ Go to **Billing Center** > **Overview** to view your total purchasing power. The
 <mark style="color:blue;">zenPoints can be applied towards any services on the platform.</mark> \ <mark style="color:blue;">$1 USD is equivalent to 1 zenPoint.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Billing Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Billing Overview</p></figcaption></figure>
 
 ## Purchasing Power
 
@@ -46,7 +46,7 @@ See [**Refill Balance**](refill-balance.md) for details.
 
 Click **Purchasing Power Reminder** to open the reminder. Members with administrator and finance permissions will receive reminder emails for 7 days when the balance falls below the warning threshold. The reminder can be closed anytime.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 
 
@@ -62,7 +62,7 @@ Enable Auto-Reload to set up a monthly reload amount, preventing unexpected serv
 
 It's recommended that you set an auto-reload amount greater than your previous month's expenditure.​
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Balance Auto-Reload</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Balance Auto-Reload</p></figcaption></figure>
 
 
 

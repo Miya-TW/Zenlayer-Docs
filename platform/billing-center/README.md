@@ -8,7 +8,7 @@ description: >-
 
 Click on **Refill Balance** to recharge your balance. See [**Refill Balance**](refill-balance.md) for details.
 
-<img src="../../.gitbook/assets/image (34).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (32).png" alt="" data-size="original">
 
 * [**Overview**](overview.md)****
 * ****[**Bills**](monthly-billing.md)****

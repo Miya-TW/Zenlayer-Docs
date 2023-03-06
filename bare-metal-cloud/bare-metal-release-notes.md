@@ -13,7 +13,7 @@ description: >-
 <summary>March 6, 2023</summary>
 
 * Upgraded bare metal menu list.
-* Upgraded **Public Virtual Interface** to **VLAN**.
+* Upgraded the product name of **Public Virtual Interface** to **VLAN**.
 
 </details>
 

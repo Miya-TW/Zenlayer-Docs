@@ -5,5 +5,5 @@ Go to **Billing Center** > **Transactions** to view all your transaction history
 * Total Spend: the total spend at services during the selected time period
 * Total Deposits: the total account income like recharge, during the selected time period
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Transactions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Transactions</p></figcaption></figure>
 

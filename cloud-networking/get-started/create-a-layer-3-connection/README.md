@@ -24,7 +24,7 @@ If you need a Layer 3 network connection - the [cloud router](../../overview/con
 On the upper left corner of zenConsole, go to **Products** > **Cloud Networking** > **Cloud Router** > [**Create Cloud Router**](https://console.zenlayer.com/sdn/router/create). \
 The overall steps of creating a cloud router is shown below. For detailed operations, please refer to the links of specific chapters.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Create a Cloud Router</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Create a Cloud Router</p></figcaption></figure>
 
 ### 1. Label Your Cloud Router&#x20;
 

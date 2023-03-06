@@ -6,11 +6,11 @@ description: >-
 
 # Grant Permission
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Grant Permissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Grant Permissions</p></figcaption></figure>
 
 ## Procedures
 
-1. Go to <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Member & Permission** > **Permission** > **Grant Permission**.
+1. Go to <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Member & Permission** > **Permission** > **Grant Permission**.
 2. Select the members you want to grant permissions to.
 3. Assign the resource groups you want the member to be able to access.
 4. Assign the policies you want the member to be able to access. See [**View Policies**](view-policies.md) for details.

@@ -4,9 +4,9 @@ description: Manage your teams, members, permissions, resources, and so on.
 
 # Team Management
 
-Go to <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> > **Team** to switch to other teams or manage your current team.
+Go to <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> > **Team** to switch to other teams or manage your current team.
 
-<img src="../../.gitbook/assets/image (32).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (25).png" alt="" data-size="original">
 
 * ****[**Create New Team**](create-new-team.md)****
 * ****[**Invite a Member**](invite-a-member.md)****

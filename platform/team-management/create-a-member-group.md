@@ -6,11 +6,11 @@ description: >-
 
 # Create a Member Group
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Create a Member Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Create a Member Group</p></figcaption></figure>
 
 ## Procedures
 
-1. Go to <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Member & Permission** > **Member Group** > **Create Member Group**. You can also go to **Member** to create a member group.
+1. Go to <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> > **Team** > **Manage your Current Team** > **Member & Permission** > **Member Group** > **Create Member Group**. You can also go to **Member** to create a member group.
 2. _<mark style="color:green;">(Optional)</mark>_ Search or choose the team members you want to add to the member group. You can also change or add members later after the member group is created.
 3. Grant permissions to the member group. See **** [**Grant Permissions**](grant-permission.md) **** for details.
 4. Give your member group a name.

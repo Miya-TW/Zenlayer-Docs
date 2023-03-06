@@ -21,7 +21,7 @@ The overall steps of creating an accelerator is shown below. For detailed operat
 
 You will first need to select an acceleration package and a billing cycle if it is your time to create an accelerator. You may have the following options: Starter, Plus, Pro and Max, with different specifications. Choose what you need depending on your actual business situation.
 
-<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Subscription Package</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Subscription Package</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

@@ -23,7 +23,7 @@ If you need a Layer 2 network connection - the [private connect](../../overview/
 On the upper left corner of zenConsole, go to **Products** > **Cloud Networking** > **Private Connect** > [**Create Private Connect**](https://console.zenlayer.com/sdn/network/create/ptp). \
 The overall steps of creating a private connect is shown below. For detailed operations, please refer to the links of specific chapters.
 
-<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Create a Private Connect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Create a Private Connect</p></figcaption></figure>
 
 ### 1. Access Point of Source End&#x20;
 

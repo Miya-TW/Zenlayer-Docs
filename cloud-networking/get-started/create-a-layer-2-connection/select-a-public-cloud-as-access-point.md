@@ -7,7 +7,7 @@ description: >-
 
 # Select a Public Cloud as Access Point
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Public Cloud Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Public Cloud Connection</p></figcaption></figure>
 
 1. Select your cloud provider. \
    zenConsole supports AWS and Tencent Cloud connection for now.

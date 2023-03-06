@@ -12,8 +12,8 @@ description: >-
 
 <summary>March 6, 2023</summary>
 
-* Upgraded menu bar by increasing **Products** and **Solutions** button.
-* Upgraded search bar and shortcuts by increasing **Docs**.
+* Upgraded menu bar by increasing Dashboard icon, **Products** and **Solutions** buttons.
+* Upgraded search bar and increased shortcut to **Docs**.
 * Upgraded snapshot of **Billing Center** by displaying the current balance while not the purchasing power.
 
 </details>
