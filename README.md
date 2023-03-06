@@ -14,9 +14,29 @@ Zenlayer offers the following on-demand edge cloud services on its self-service 
 
 <details>
 
-<summary><mark style="color:blue;">Added onboarding support for new users</mark></summary>
+<summary><mark style="color:blue;">Upgraded dashboard layout</mark></summary>
 
+Increase **Products** and **Solutions** button.\
+Increase **Docs** shortcut.\
+Display **Current Balance** on snapshot of **Billing Center**.\
+See [**Overview**](platform/overview.md) for details.
 
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Upgraded <strong>Public Virtual Interface</strong> to <strong>VLAN</strong></mark></summary>
+
+Upgraded bare metal menu list and **Public Virtual Interface** to **VLAN**
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;">Added kinds of access points support for cloud networking</mark></summary>
+
+* Added support for Google Cloud connection.
+* Added support for IPsec connection.
 
 </details>
 

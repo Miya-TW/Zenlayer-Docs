@@ -6,6 +6,17 @@ description: >-
 
 # Cloud Networking Release Notes
 
+## March **2023**
+
+<details>
+
+<summary>March 6, 2023</summary>
+
+* Added support for Google Cloud connection.
+* Added support for IPsec connection.
+
+</details>
+
 ## **October 2022**
 
 <details>

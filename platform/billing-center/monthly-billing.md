@@ -1,4 +1,8 @@
-# Monthly Billing
+# Bills
 
-Go to **Billing** > **Monthly Billing** to view the monthly spending analytics for the last 6 months, or year-to-date.
+Go to **Billing Center** > **Bills** to view the monthly spending analytics.
+
+You can also check the details by month or by year, view and download the corresponding vouchers.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
 

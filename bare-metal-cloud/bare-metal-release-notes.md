@@ -6,6 +6,17 @@ description: >-
 
 # Bare Metal Release Notes
 
+## March **2023**
+
+<details>
+
+<summary>March 6, 2023</summary>
+
+* Upgraded bare metal menu list.
+* Upgraded **Public Virtual Interface** to **VLAN**.
+
+</details>
+
 ## **October 2022**
 
 <details>

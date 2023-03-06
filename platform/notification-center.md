@@ -6,7 +6,7 @@ description: >-
 
 # Notification Center
 
-Hover over ![](<../.gitbook/assets/Article\_1 (3).jpg>) in the upper right corner of the zenConsole to view your notifications. Click **View All Notifications** to view more details.
+Hover over ![](<../.gitbook/assets/Article\_1 (3).jpg>) on the upper right corner of the zenConsole to view your notifications. Click **View All Notifications** to view more details.
 
 <figure><img src="../.gitbook/assets/Article_2.jpg" alt=""><figcaption><p>Notification Center</p></figcaption></figure>
 

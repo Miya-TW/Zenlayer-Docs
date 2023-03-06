@@ -1,6 +1,8 @@
 # Refill Balance
 
-Go to **Billing** > [**Refill Balance**](https://portal.hzk8s.com/account/payment) to recharge your balance online or offline.
+Go to **Billing Center** > **Overview** > [**Refill**](https://console.zenlayer.com/account/payment) to recharge your balance online or offline.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Balance Refill</p></figcaption></figure>
 
 ## **Online Payment**
 

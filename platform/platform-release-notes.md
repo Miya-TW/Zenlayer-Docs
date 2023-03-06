@@ -1,10 +1,22 @@
 ---
 description: >-
-  This page contains the latest release notes for features and updates to bare
-  metal cloud.
+  This page contains the latest release notes for features and updates to
+  zenConsole.
 ---
 
 # Platform Release Notes
+
+## March **2023**
+
+<details>
+
+<summary>March 6, 2023</summary>
+
+* Upgraded menu bar by increasing **Products** and **Solutions** button.
+* Upgraded search bar and shortcuts by increasing **Docs**.
+* Upgraded snapshot of **Billing Center** by displaying the current balance while not the purchasing power.
+
+</details>
 
 ## **October 2022**
 

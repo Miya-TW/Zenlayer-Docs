@@ -7,7 +7,7 @@ description: >-
 
 # Configure Network Information
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Network Configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Network Configuration</p></figcaption></figure>
 
 1. Select or enter the VLAN ID of your source and destination ports. Data will be transmitted in the corresponding VLAN.\
    The system will assign a VLAN ID by default, but you can also choose your own between 2-4000.

@@ -2,17 +2,13 @@
 
 zenConsole is Zenlayer's self-service cloud management platform. You can easily create and manage Zenlayer edge cloud services like bare metal instances, virtual machine instances, global accelerators, and cloud networking on zenConsole.
 
-<figure><img src="https://support.zenlayer.com/servlet/rtaImage?eid=ka06S0000019MTM&#x26;feoid=00N3h00000EQw1z&#x26;refid=0EM6S000005LSKt" alt=""><figcaption><p>zenConsole Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/zenConsole Overview.png" alt=""><figcaption><p>zenConsole Overview</p></figcaption></figure>
 
-## **1. Team Management**
+## 1. Menu Bar
 
-You can access the cloud services as a team member and be invited to different teams. You're the default administrator of the team you create. Different team members can be given different permissions. The team's administrator can manage the members and resources. You can be invited to different teams.&#x20;
+### Dashboard
 
-See **** [**Team Management**](team-management/) for more details.
-
-## **2. Dashboard**
-
-On the dashboard, you can view the following:
+Click <img src="../.gitbook/assets/icon_dashboard.png" alt="" data-size="line"> to go to the dashboard. On the dashboard, you can view the following:
 
 * **Resource Overview**\
   See all your current resources. You can click on a resource to view its details.
@@ -25,34 +21,78 @@ On the dashboard, you can view the following:
 * **Learn More**\
   API documents and user guides to help you better understand our products.
 
-## **3. Product Menu**
+### Products
 
-All Zenlayer products are listed here.
+All Zenlayer products are listed here. Shortcuts to account services, such as billing center, notification center and resource management, can also be found here.&#x20;
 
-## **4. Resource Management**
+### Solutions
+
+The application scenarios are listed here to help you better find the solutions of your actual business.
+
+### All Resources
 
 Resource groups help you to manage your resources and let you allocate different resources to different team members. You can switch your resource groups and manage your resource groups here.\
 See **** [**Create a Resource Group**](team-management/create-a-resource-group.md) for more details.
 
-## **5. Common Functions**
 
-In the upper right corner, you can access the following:
 
-**1)** Search for the resources you want. Fuzzy search is supported.
+## 2. Search Bar
 
-**2)** Shortcut to create various resources.
+Search for the resources you want. Fuzzy search is supported.
 
-**3)** View the [**API documents**](https://docs.zenlayer.com/api/doc/intro).
 
-**4)** View the billing center, including the orders, subscriptions, balance, vouchers, and so on. See [**Billing Center**](billing-center/) for more details.
 
-**5)** View the notification center, including notifications about products, account, billing and so on. See **** [**Notification Center**](notification-center.md) **** for more details.
+## 3. Quick Start
 
-**6)** Contact support. You can submit any requests or authorize Zenlayer support to access your account.
+Shortcut to create various resources.
 
-**7)** Manage your personal account. You can edit your profile, toggle between zenConsole themes, or sign out of your account. See **** [**Account Management**](account-management/) for more details.
 
-## **6. Feedback**
+
+## 4. Help Documentation
+
+User guides and API documents to help you better use Zenlayer products.
+
+
+
+## 5. Billing Center
+
+View the billing center, including the orders, subscriptions, balance, vouchers, and so on. \
+See [**Billing Center**](billing-center/) for more details.
+
+
+
+## 6. Language Switch
+
+Choose the language of zenConsole. English and Chinese are supported for now.
+
+
+
+## 7. Notification Center
+
+View the notification center, including notifications about products, account, billing and so on. See **** [**Notification Center**](notification-center.md) **** for more details.
+
+
+
+## 8. Support Contact
+
+Contact Zenlayer support. You can submit any requests or authorize Zenlayer support to access your account.\
+See [**Support Contact**](support-contact.md) for more details.
+
+
+
+## 9. Account Management
+
+Manage your personal account. You can edit your profile, toggle between zenConsole themes, or sign out of your account.&#x20;
+
+See **** [**Team Management**](team-management/) for more details.
+
+Manage your team. You access the cloud services as a team member and are invited to different teams. You're the default administrator of the team you create. Different team members can be given different permissions. The team's administrator can manage the members and resources. You can be invited to different teams.&#x20;
+
+See **** [**Account Management**](account-management/) for more details.
+
+
+
+## 10. Feedback
 
 You can rate your experience and submit any feedback you have. Zenlayer support will respond to you as soon as possible.
 

@@ -88,11 +88,11 @@ Now that we’ve provisioned our host, we’re going to modify some additional s
 
 While the host undergoes its initial configuration process, we will configure the WAN interface for these devices. Please note that we’re only adding these hosts to this network during initial provisioning. After we configure our firewall, we will migrate these off the public network and onto their private networks.
 
-Let’s start off by selecting **\[Public Virtual Interface]** (PuVI) __ on the left-hand pane. Then, select the same city and zone in which you’ve provisioned your BMC. In our case, we’ll select **\[Los Angeles]** and the **\[LAX-H]** zone. Next, we’ll choose our preferred CIDR block. For this lab we will select **\[13 IPs or /28]**. Label your PuVI in the dialogue shown below. In our example, we’ve labeled this PuVI as _**vSphere-On-ZL-PuVI**._ Finally, select your _ **Resource Group**_ if applicable, then click on **\[Zenlayer Agreement]** and complete your order by clicking on **\[Create]**.
+Let’s start off by selecting **\[VLAN]** (PuVI) __ on the left-hand pane. Then, select the same city and zone in which you’ve provisioned your BMC. In our case, we’ll select **\[Los Angeles]** and the **\[LAX-H]** zone. Next, we’ll choose our preferred CIDR block. For this lab we will select **\[13 IPs or /28]**. Label your PuVI in the dialogue shown below. In our example, we’ve labeled this PuVI as _**vSphere-On-ZL-PuVI**._ Finally, select your _ **Resource Group**_ if applicable, then click on **\[Zenlayer Agreement]** and complete your order by clicking on **\[Create]**.
 
 ![](<../../.gitbook/assets/8 (1).png>)
 
-Next, you’ll be redirected to your _Public Virtual Interface_ inventory page. I know that my BMC has completed its provisioning process because I’ve received the _zenConsole BMC Created_ email. Let’s move on by assigning our host the newly created PuVI. From the inventory page, select your newly created PuVI. For our example, we’ll select **\[vSphere-On-ZL-PuVI]**.
+Next, you’ll be redirected to your VLAN inventory page. I know that my BMC has completed its provisioning process because I’ve received the _zenConsole BMC Created_ email. Let’s move on by assigning our host the newly created PuVI. From the inventory page, select your newly created PuVI. For our example, we’ll select **\[vSphere-On-ZL-PuVI]**.
 
 ![](../../.gitbook/assets/9.png)
 
@@ -196,7 +196,7 @@ After logging in, navigate to _**Configure Management Network** _ and press **\[
 
 ![](../../.gitbook/assets/10.png)
 
-Now navigate to _**IPv4 Configuration** _ and press **\[enter]**. Here, assign the PuVI IP assigned to the host. _Remember, to see the **Gateway**, **Subnet Mask,** and **IP**, you can navigate to the **Networking** tab of the host from **zenConsole** under the section labeled **Public Virtual Interface**._ After assigning, press **\[enter]** to save your configuration. Press **\[esc]** to go to the previous page then **\[Y]** to apply your settings and restart the network adapter.
+Now navigate to _**IPv4 Configuration** _ and press **\[enter]**. Here, assign the PuVI IP assigned to the host. _Remember, to see the **Gateway**, **Subnet Mask,** and **IP**, you can navigate to the **Networking** tab of the host from **zenConsole** under the section labeled_ VLAN_._ After assigning, press **\[enter]** to save your configuration. Press **\[esc]** to go to the previous page then **\[Y]** to apply your settings and restart the network adapter.
 
 ![](../../.gitbook/assets/11.png)
 

@@ -1,6 +1,6 @@
 # Manage Your Private Connect
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Private Connect Management</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Private Connect Management</p></figcaption></figure>
 
 ## **State of Your Private Connect and Port**
 

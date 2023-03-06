@@ -18,7 +18,7 @@ Zenlayer bare metal instance has three main models with different configurations
 
 ## **Zones**
 
-Bare metal instances are deployed by zones. Each zone has its own power grid and network structure. Your instances in the same zone can buildup private network by Virtual Private Cloud and clusters with Internet access by Public Virtual Interface.
+Bare metal instances are deployed by zones. Each zone has its own power grid and network structure. Your instances in the same zone can buildup private network by Virtual Private Cloud and clusters with Internet access by VLAN.
 
 The table below displays the cities and zones that are available, but the accurate data is subject to the opening page on zenConsole.
 

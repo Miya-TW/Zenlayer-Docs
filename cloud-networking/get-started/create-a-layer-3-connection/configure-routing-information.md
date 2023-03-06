@@ -11,7 +11,7 @@ description: >-
 * If you add a VPC, you don't need to configure the routing information. Go to [Network Configuration](configure-network-information.md) directly.
 * If you have a small network, you can choose static routing. If you have a big network and your devices support Border Gateway Protocol (BGP), we recommend using BGP to take care of network segment changes.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Routing Configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Routing Configuration</p></figcaption></figure>
 
 ## BGP Routing
 

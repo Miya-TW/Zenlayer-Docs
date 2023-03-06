@@ -6,7 +6,7 @@ description: >-
 
 # Bare Metal Cloud Pricing
 
-A bare metal instance includes the computing resources (CPUs and memory), storage resources, IPs, bandwidth, data transfer, public virtual interface, CIDR blocks, VPCs and subnets.
+A bare metal instance includes the computing resources (CPUs and memory), storage resources, IPs, bandwidth, data transfer, VLAN, CIDR blocks, VPCs and subnets.
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>

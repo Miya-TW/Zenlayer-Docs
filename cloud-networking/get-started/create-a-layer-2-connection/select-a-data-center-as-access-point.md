@@ -6,7 +6,7 @@ description: >-
 
 # Select a Data Center as Access Point
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Data Center Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Data Center Connection</p></figcaption></figure>
 
 ## **Existing Port**
 

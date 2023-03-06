@@ -4,7 +4,7 @@ Zenlayer Global Accelerator (ZGA) is a network acceleration service built on Zen
 
 ZGA provides stable and secure connectivity to global applications, improves user experience, and reduce operational costs. ZGA makes it easier for network operators, DevOps & IT pros, by automating connectivity to global resources.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>ZGA Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>ZGA Architecture</p></figcaption></figure>
 
 
 

@@ -6,7 +6,7 @@ description: >-
 
 # Configure Network Information
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Bandwidth Configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Bandwidth Configuration</p></figcaption></figure>
 
 Configure the access bandwidth of your access point.
 

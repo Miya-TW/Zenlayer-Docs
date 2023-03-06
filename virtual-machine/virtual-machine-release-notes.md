@@ -6,6 +6,17 @@ description: >-
 
 # Virtual Machine Release Notes
 
+## March **2023**
+
+<details>
+
+<summary>March 6, 2023</summary>
+
+* Added support for custom image. You can quickly create virtual machine instances with the same configuration as the custom image by using it as the system disk.
+* Added support for different billing cycles. You can subscribe the service for 1 month, 3 months, 6 months and etc.
+
+</details>
+
 ## **October 2022**
 
 <details>
