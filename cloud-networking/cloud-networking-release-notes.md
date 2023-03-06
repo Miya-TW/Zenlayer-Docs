@@ -14,6 +14,7 @@ description: >-
 
 * Added support for Google Cloud connection.
 * Added support for Virtual Edge - IPsec connection.
+* Upgraded **Overview** page layout of cloud router.
 
 </details>
 
