@@ -53,7 +53,10 @@ If your public cloud provider is Google Cloud, you need to [**create a VLAN atta
 
 **On Zenlayer console**
 
-Use the pairing key generated on Google Cloud to create a cloud router.
+Use the pairing key generated on Google Cloud to create cloud connect.
+
+* [Layer 2 connection](create-a-layer-2-connection/select-a-public-cloud-as-access-point.md)
+* [Layer 3 connection](create-a-layer-3-connection/select-a-public-cloud-as-access-point.md)
 
 ****
 
