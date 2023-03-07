@@ -6,7 +6,7 @@ description: >-
 
 # Select a Data Center as Access Point
 
-<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Data Center Connection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Data Center Connection</p></figcaption></figure>
 
 ## **Existing Port**
 
@@ -45,7 +45,7 @@ Contact Zenlayer Support or your data center operator to establish a cross conne
 
 *   <mark style="color:blue;">On the upper-right corner of private connect list interface, you can also click</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**+ New Port**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">to create a new port. This new port can be used to create a private connect or a cloud router in the future.</mark>\ <mark style="color:blue;"></mark>
 
-    <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Create New Port</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Create New Port</p></figcaption></figure>
 * <mark style="color:blue;">The lowest port speed determines the transmission rate of your private connection.</mark>
 {% endhint %}
 

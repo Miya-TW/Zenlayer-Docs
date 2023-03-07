@@ -14,7 +14,7 @@ If you haven’t created any teams before, you can create one here.
 <mark style="color:blue;">You can only use one email address per team creation. If you have already created a team, skip to the next chapter.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Create New Team</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Create New Team</p></figcaption></figure>
 
 ## Procedures
 

@@ -109,6 +109,7 @@
     * [Select a Data Center as Access Point](cloud-networking/get-started/create-a-layer-3-connection/select-a-data-center-as-access-point.md)
     * [Select a Public Cloud as Access Point](cloud-networking/get-started/create-a-layer-3-connection/select-a-public-cloud-as-access-point.md)
     * [Select a VPC as Access Point](cloud-networking/get-started/create-a-layer-3-connection/select-a-vpc-as-access-point.md)
+    * [Select Virtual Edge as Access Point](cloud-networking/get-started/create-a-layer-3-connection/select-virtual-edge-as-access-point.md)
     * [Configure Routing Information](cloud-networking/get-started/create-a-layer-3-connection/configure-routing-information.md)
     * [Configure Network Information](cloud-networking/get-started/create-a-layer-3-connection/configure-network-information.md)
   * [Validate Connections in Public Cloud](cloud-networking/get-started/validate-connection-in-public-cloud.md)

@@ -6,7 +6,7 @@ description: >-
 
 # Invite a Member
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Invite a Member</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Invite a Member</p></figcaption></figure>
 
 ## Procedures
 

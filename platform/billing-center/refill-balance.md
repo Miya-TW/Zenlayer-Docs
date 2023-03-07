@@ -2,7 +2,7 @@
 
 Go to **Billing Center** > **Overview** > [**Refill**](https://console.zenlayer.com/account/payment) to recharge your balance online or offline.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Balance Refill</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Balance Refill</p></figcaption></figure>
 
 ## **Online Payment**
 

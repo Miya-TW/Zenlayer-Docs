@@ -6,14 +6,14 @@ description: >-
 
 # Create a Layer 2 Connection
 
-If you need a Layer 2 network connection - the [private connect](../../overview/concepts.md#private-connect), you can follow the steps as shown below.
+If you need a Layer 2 network connection - the [**private connect**](../../overview/concepts.md#private-connect), you can follow the steps as shown below.
 
 
 
 ## Prerequisites
 
-* You have [signed up an account](../../../platform/account-management/create-an-account.md) with your email and sign in to **** [**zenConsole**](https://console.zenlayer.com/).
-* If you need to connect to your cloud services, your public cloud provider should be one of the following: AWS and Tencent Cloud.\
+* You have [**signed up an account**](../../../platform/account-management/create-an-account.md) with your email and sign in to **** [**zenConsole**](https://console.zenlayer.com/).
+* If you need to connect to your cloud services, your public cloud provider should be one of the following: AWS, Tencent Cloud and Google Cloud.\
   More public cloud providers will be supported soon.
 
 

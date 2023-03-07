@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you add access points like data centers or public clouds, you need to
-  configure routing protocols to achieve network communication.
+  If you add access points like data centers, public clouds or virtual edge, you
+  need to configure routing protocols to achieve network communication.
 ---
 
 # Configure Routing Information
@@ -9,9 +9,10 @@ description: >-
 ## Prerequisites
 
 * If you add a VPC, you don't need to configure the routing information. Go to [Network Configuration](configure-network-information.md) directly.
+* If you add a virtual edge and enable HA, only BGP routing is supported.
 * If you have a small network, you can choose static routing. If you have a big network and your devices support Border Gateway Protocol (BGP), we recommend using BGP to take care of network segment changes.
 
-<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Routing Configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Routing Configuration</p></figcaption></figure>
 
 ## BGP Routing
 
@@ -23,9 +24,9 @@ Static routing is generally used in smaller networks that contain only a couple 
 
 
 
-* **Your intranet address**: the private IP configured on your data center/public cloud access point.
-* **Zenlayer intranet address**: the private IP configured on Zenlayer backbone POP.
-* **Your ASN**: the ASN of your data center/public cloud access point. Only available for BGP configuration.
+* **Your private IP address**: the private IP configured on your data center/public cloud/virtual edge access point.
+* **Zenlayer private IP address**: the private IP configured on Zenlayer backbone POP.
+* **Your ASN**: the ASN of your data center/public cloud/virtual edge access point. Only available for BGP configuration.
 * **Zenlayer ASN**: 62610 by default and cannot be changed. Only available for BGP configuration.
-* **BGP MD5 of customer**: BGP authentication key.Only available for BGP configuration.
+* **BGP MD5 (optional)**: BGP authentication key.Only available for BGP configuration.
 

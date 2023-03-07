@@ -22,6 +22,7 @@ description: >-
 * <mark style="color:blue;">If you connect to a public cloud, the public cloud usually provides different access bandwidth specifications as follows. You will be charged for the nearest cap higher than your configuration as the cloud connect bandwidth. Your actual access bandwidth of the private connect is still what you have configured.</mark>
   * <mark style="color:blue;">AWS: 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, and 10 Gbps.</mark>
   * <mark style="color:blue;">Tencent Cloud: 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, 8 Gbps, 10 Gbps, 40 Gbps, and 100 Gbps.</mark>&#x20;
+  * <mark style="color:blue;">Google Cloud: 50 Mbps, 100 Mbps, 200 Mbps, 300 Mbps, 400 Mbps, 500 Mbps, 1 Gbps, 2 Gbps, 5 Gbps, 10 Gbps, 20 Gbps and 50 Gbps.</mark>&#x20;
 * <mark style="color:blue;">After creating your private connect, see</mark> [<mark style="color:purple;">What to Do Next</mark>](./#what-to-do-next) <mark style="color:blue;">to active your points.</mark>
 * <mark style="color:blue;">Check the</mark> [<mark style="color:purple;">states</mark>](./#result) <mark style="color:blue;">of your private connect to see whether it is active.</mark>
 {% endhint %}
