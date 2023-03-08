@@ -4,27 +4,27 @@ Zenlayer virtual machines have three kinds of models with different configuratio
 
 ## **Models**
 
-|   Instance Model  | vCPU (Core) | RAM (GB) | Max. Bandwidth (Mbps) |
-| :---------------: | :---------: | :------: | :-------------------: |
-| Compute Optimized |      1      |     2    |          0.5          |
-| Compute Optimized |      2      |     4    |           1           |
-| Compute Optimized |      4      |     8    |          1.5          |
-| Compute Optimized |      8      |    16    |           2           |
-| Compute Optimized |      12     |    24    |          2.5          |
-| Compute Optimized |      16     |    32    |           3           |
-| Compute Optimized |      24     |    48    |          4.5          |
-| Compute Optimized |      32     |    64    |           6           |
-| Compute Optimized |      64     |    128   |           6           |
-|  General Purpose  |      2      |     8    |           1           |
-|  General Purpose  |      4      |    16    |          1.5          |
-|  General Purpose  |      8      |    32    |           2           |
-|  General Purpose  |      16     |    64    |           3           |
-|  General Purpose  |      24     |    96    |          4.5          |
-|  General Purpose  |      32     |    128   |           6           |
-|  Memory Optimized |      2      |    16    |           1           |
-|  Memory Optimized |      4      |    32    |          1.5          |
-|  Memory Optimized |      8      |    64    |           2           |
-|  Memory Optimized |      16     |    128   |           3           |
+|   Instance Model  | vCPU (Core) | RAM (GB) | Max. Bandwidth (GGbps) |
+| :---------------: | :---------: | :------: | :--------------------: |
+| Compute Optimized |      1      |     2    |           0.5          |
+| Compute Optimized |      2      |     4    |            1           |
+| Compute Optimized |      4      |     8    |           1.5          |
+| Compute Optimized |      8      |    16    |            2           |
+| Compute Optimized |      12     |    24    |           2.5          |
+| Compute Optimized |      16     |    32    |            3           |
+| Compute Optimized |      24     |    48    |           4.5          |
+| Compute Optimized |      32     |    64    |            6           |
+| Compute Optimized |      64     |    128   |            6           |
+|  General Purpose  |      2      |     8    |            1           |
+|  General Purpose  |      4      |    16    |           1.5          |
+|  General Purpose  |      8      |    32    |            2           |
+|  General Purpose  |      16     |    64    |            3           |
+|  General Purpose  |      24     |    96    |           4.5          |
+|  General Purpose  |      32     |    128   |            6           |
+|  Memory Optimized |      2      |    16    |            1           |
+|  Memory Optimized |      4      |    32    |           1.5          |
+|  Memory Optimized |      8      |    64    |            2           |
+|  Memory Optimized |      16     |    128   |            3           |
 
 {% hint style="info" %}
 <mark style="color:blue;">**Note**</mark>
